@@ -92,7 +92,7 @@ AWESOME EMAILS ✉ ✨
 * [HTML Crush](https://htmlcrush.com/) - Email-friendly HTML minifier: limits lines to 500 chars. (best practice), respects Outlook conditional tags and accepts mixed sources, including ESP templating tags. Optionally, can only remove indentations (not touching line breaks).
 * [Tabifier](https://tools.arantius.com/tabifier) - Opposite of HTML Crush - a tool to beautify the indentation in HTML files. Works with mixed input sources, including your ESP templating tags.
 * [Email Link Builder](https://email-link-builder.samcarlton.com/) - Make mailto links that open email drafts with prefilled Recipients, Subject, Body and more.
-* [email-verifier](https://github.com/AfterShip/email-verifier) ⭐ 1,594 | 🐛 34 | 🌐 Go | 📅 2026-02-26 - A tool for email verification without sending any emails.
+* [email-verifier](https://github.com/AfterShip/email-verifier) ⭐ 1,594 | 🐛 28 | 🌐 Go | 📅 2026-08-13 - A tool for email verification without sending any emails.
 * [DevMail](https://devmail.email/) - An email sandbox for software developers. Capture emails from your dev, staging, QA, or CI environment.
 * [Disposable Email Check API](https://open.kickbox.com/) - A free API for checking if an email address is disposable. No sign up required.
 
@@ -129,7 +129,7 @@ AWESOME EMAILS ✉ ✨
 * [Mautic](https://mautic.org/) - Mautic Marketing Automation. Build smarter campaigns – and build them faster – with marketing automation that’s quick to learn, simple to use, and easy to iterate.
 * [Modoboa](https://modoboa.org/) - A solution to quickly deploy and manage a complete email server, compatible with latest standards and optimized for delivery and reputation protection.
 * [Poste.io](https://poste.io/) - Complete mailserver built in one docker container.
-* [SimpleLogin](https://github.com/simple-login/app) ⭐ 6,908 | 🐛 252 | 🌐 Python | 📅 2026-08-11 - Self-hosted email alias solution.
+* [SimpleLogin](https://github.com/simple-login/app) ⭐ 6,909 | 🐛 252 | 🌐 Python | 📅 2026-08-11 - Self-hosted email alias solution.
 
 ## Articles
 
@@ -199,7 +199,7 @@ AWESOME EMAILS ✉ ✨
 * [Gulp Litmus](https://www.npmjs.com/package/gulp-litmus) - Send email tests to Litmus with gulp.
 * [MailTrap](https://mailtrap.io) - A Fake SMTP Server to Test, View and Share emails without spamming real customers.
 * [testmail.app](https://testmail.app) - A fake SMTP server with unlimited mailboxes and a GraphQL API for automating end-to-end tests.
-* [MailHog](https://github.com/mailhog/MailHog) ⭐ 16,117 | 🐛 255 | 🌐 Go | 📅 2024-02-13 A local fake SMTP server (based on Go).
+* [MailHog](https://github.com/mailhog/MailHog) ⭐ 16,116 | 🐛 255 | 🌐 Go | 📅 2024-02-13 A local fake SMTP server (based on Go).
 * [MailCatcher](https://mailcatcher.me/) A local fake SMTP server (based on Ruby).
 * [Email Privacy Tester](https://www.emailprivacytester.com/) - A tool to test your email client's priacy features (loading remote content).
 * [Mail Tester](https://www.mail-tester.com/) - Test the spammyness of your emails.
