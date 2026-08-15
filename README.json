@@ -103,7 +103,7 @@
             "last_commit": "2024-05-02T16:46:22Z",
             "owner": "leemunroe",
             "repo": "grunt-email-workflow",
-            "stars": 3035
+            "stars": 3034
           }
         },
         {
@@ -195,7 +195,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T04:30:32Z",
+            "last_commit": "2026-08-14T20:49:16Z",
             "owner": "jonathandion",
             "repo": "mono",
             "stars": 30
@@ -211,7 +211,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T08:43:59.466Z",
+    "last_updated": "2026-08-15T07:51:50.869Z",
     "original_repository": "jonathandion/awesome-emails",
     "original_repository_sha": "27d4f20fccc9a9b779870bf3fd901d5cf3edac10",
     "enhanced_repository": "enhansome/enhansome-emails",
