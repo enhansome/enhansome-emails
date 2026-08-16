@@ -47,7 +47,7 @@
             "last_commit": "2024-07-16T01:43:44Z",
             "owner": "emailmonday",
             "repo": "Cerberus",
-            "stars": 5130
+            "stars": 5129
           }
         },
         {
@@ -117,7 +117,7 @@
             "last_commit": "2022-03-31T23:27:27Z",
             "owner": "charlesmudy",
             "repo": "responsive-html-email-template",
-            "stars": 686
+            "stars": 685
           }
         },
         {
@@ -211,7 +211,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T07:51:50.869Z",
+    "last_updated": "2026-08-16T07:54:01.147Z",
     "original_repository": "jonathandion/awesome-emails",
     "original_repository_sha": "27d4f20fccc9a9b779870bf3fd901d5cf3edac10",
     "enhanced_repository": "enhansome/enhansome-emails",
