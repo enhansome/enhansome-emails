@@ -52,7 +52,7 @@ AWESOME EMAILS ✉ ✨
 
 ## Templates
 
-* [Mailchimp Email Blueprints](https://github.com/mailchimp/Email-Blueprints) ⭐ 7,024 | 🐛 37 | 📅 2019-10-23 - Email Blueprints is a collection of HTML email templates that can serve as a solid foundation and starting point for the design of emails.
+* [Mailchimp Email Blueprints](https://github.com/mailchimp/Email-Blueprints) ⭐ 7,025 | 🐛 37 | 📅 2019-10-23 - Email Blueprints is a collection of HTML email templates that can serve as a solid foundation and starting point for the design of emails.
 * [Responsive Transactional HTML Email Templates](https://github.com/mailgun/transactional-email-templates) ⭐ 6,927 | 🐛 12 | 🌐 HTML | 📅 2022-02-03 - Each template is responsive and each has been tested in all the popular email clients.
 * [Cerberus](https://github.com/TedGoas/Cerberus) ⭐ 5,129 | 🐛 13 | 🌐 HTML | 📅 2024-07-16 - Few responsive email patterns.
 * [Email boilerplate](https://github.com/seanpowell/Email-Boilerplate) ⭐ 3,791 | 🐛 22 | 🌐 HTML | 📅 2021-04-28 - The email boilerplate for sending out nicely formatted messages.
@@ -92,7 +92,7 @@ AWESOME EMAILS ✉ ✨
 * [HTML Crush](https://htmlcrush.com/) - Email-friendly HTML minifier: limits lines to 500 chars. (best practice), respects Outlook conditional tags and accepts mixed sources, including ESP templating tags. Optionally, can only remove indentations (not touching line breaks).
 * [Tabifier](https://tools.arantius.com/tabifier) - Opposite of HTML Crush - a tool to beautify the indentation in HTML files. Works with mixed input sources, including your ESP templating tags.
 * [Email Link Builder](https://email-link-builder.samcarlton.com/) - Make mailto links that open email drafts with prefilled Recipients, Subject, Body and more.
-* [email-verifier](https://github.com/AfterShip/email-verifier) ⭐ 1,596 | 🐛 26 | 🌐 Go | 📅 2026-08-17 - A tool for email verification without sending any emails.
+* [email-verifier](https://github.com/AfterShip/email-verifier) ⭐ 1,598 | 🐛 26 | 🌐 Go | 📅 2026-08-17 - A tool for email verification without sending any emails.
 * [DevMail](https://devmail.email/) - An email sandbox for software developers. Capture emails from your dev, staging, QA, or CI environment.
 * [Disposable Email Check API](https://open.kickbox.com/) - A free API for checking if an email address is disposable. No sign up required.
 
@@ -105,7 +105,7 @@ AWESOME EMAILS ✉ ✨
 * [Mailscribe Mailmaker](https://mailscribe.com/page/mailmaker) - AI-powered email marketing platform that allows to design email with built-in components.
 * [Campaign monitor](https://www.campaignmonitor.com/) - Campaign Monitor makes it easy for you to create, send, and optimize your email marketing campaigns.
 * [Sendgrid](https://sendgrid.com/) - Delivering your transactional and marketing email through one reliable platform.
-* [Postal](https://github.com/atech/postal) ⭐ 16,741 | 🐛 87 | 🌐 Ruby | 📅 2026-08-18 - A fully featured open source mail delivery platform for incoming & outgoing e-mail.
+* [Postal](https://github.com/atech/postal) ⭐ 16,742 | 🐛 87 | 🌐 Ruby | 📅 2026-08-18 - A fully featured open source mail delivery platform for incoming & outgoing e-mail.
 * [SparkPost](https://www.sparkpost.com/) - Your application’s emails: Delivered on time and to the inbox.
 * [Mautic](https://mautic.com/) - Mautic Marketing Automation. Build smarter campaigns – and build them faster – with marketing automation that’s quick to learn, simple to use, and easy to iterate.
 * [Mailgun](https://www.mailgun.com/) - Transactional Email API Service For Developers.
@@ -129,7 +129,7 @@ AWESOME EMAILS ✉ ✨
 * [Mautic](https://mautic.org/) - Mautic Marketing Automation. Build smarter campaigns – and build them faster – with marketing automation that’s quick to learn, simple to use, and easy to iterate.
 * [Modoboa](https://modoboa.org/) - A solution to quickly deploy and manage a complete email server, compatible with latest standards and optimized for delivery and reputation protection.
 * [Poste.io](https://poste.io/) - Complete mailserver built in one docker container.
-* [SimpleLogin](https://github.com/simple-login/app) ⭐ 6,923 | 🐛 253 | 🌐 Python | 📅 2026-08-17 - Self-hosted email alias solution.
+* [SimpleLogin](https://github.com/simple-login/app) ⭐ 6,929 | 🐛 253 | 🌐 Python | 📅 2026-08-17 - Self-hosted email alias solution.
 
 ## Articles
 
@@ -199,7 +199,7 @@ AWESOME EMAILS ✉ ✨
 * [Gulp Litmus](https://www.npmjs.com/package/gulp-litmus) - Send email tests to Litmus with gulp.
 * [MailTrap](https://mailtrap.io) - A Fake SMTP Server to Test, View and Share emails without spamming real customers.
 * [testmail.app](https://testmail.app) - A fake SMTP server with unlimited mailboxes and a GraphQL API for automating end-to-end tests.
-* [MailHog](https://github.com/mailhog/MailHog) ⭐ 16,121 | 🐛 255 | 🌐 Go | 📅 2024-02-13 A local fake SMTP server (based on Go).
+* [MailHog](https://github.com/mailhog/MailHog) ⭐ 16,124 | 🐛 255 | 🌐 Go | 📅 2024-02-13 A local fake SMTP server (based on Go).
 * [MailCatcher](https://mailcatcher.me/) A local fake SMTP server (based on Ruby).
 * [Email Privacy Tester](https://www.emailprivacytester.com/) - A tool to test your email client's priacy features (loading remote content).
 * [Mail Tester](https://www.mail-tester.com/) - Test the spammyness of your emails.
@@ -224,7 +224,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 
 * [Awesome JS Books](https://github.com/jonathandion/awesome-js-books) ⭐ 71 | 🐛 0 | 📅 2019-06-18 - This is a curated list of all the best JavaScript books.
 * [My Neovim Config](https://github.com/jonathandion/web-dev.nvim) ⭐ 66 | 🐛 1 | 🌐 Lua | 📅 2023-03-08 - Small Neovim configuration written in Lua that is specifically designed for web development.
-* [Web Configs](https://github.com/jonathandion/web-configs) ⭐ 30 | 🐛 15 | 🌐 TypeScript | 📅 2026-08-17 - Monorepo for all common configurations for building web apps.
+* [Web Configs](https://github.com/jonathandion/web-configs) ⭐ 30 | 🐛 15 | 🌐 TypeScript | 📅 2026-08-19 - Monorepo for all common configurations for building web apps.
 
 ### License
 
@@ -232,4 +232,4 @@ If you want to contribute, please read the [contribution guidelines](https://git
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._

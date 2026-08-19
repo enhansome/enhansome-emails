@@ -1,12 +1,7 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "Frameworks"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -15,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 981065,
             "language": null,
             "last_commit": "2019-10-23T04:38:04Z",
             "owner": "mailchimp",
             "repo": "email-blueprints",
-            "stars": 7024
+            "stars": 7025
           }
         },
         {
@@ -29,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22720859,
             "language": "HTML",
             "last_commit": "2022-02-03T15:51:44Z",
             "owner": "mailgun",
@@ -43,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 14543561,
             "language": "HTML",
             "last_commit": "2024-07-16T01:43:44Z",
             "owner": "emailmonday",
@@ -57,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1325474,
             "language": "HTML",
             "last_commit": "2021-04-28T18:47:01Z",
             "owner": "seanpowell",
@@ -71,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7224705,
             "language": "HTML",
             "last_commit": "2020-09-30T17:36:15Z",
             "owner": "InterNations",
@@ -85,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 40009560,
             "language": "HTML",
             "last_commit": "2023-04-02T06:24:38Z",
             "owner": "ActiveCampaign",
@@ -99,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 18778957,
             "language": "SCSS",
             "last_commit": "2024-05-02T16:46:22Z",
             "owner": "leemunroe",
@@ -113,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 20591640,
             "language": "HTML",
             "last_commit": "2022-03-31T23:27:27Z",
             "owner": "charlesmudy",
@@ -127,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15578117,
             "language": "JavaScript",
             "last_commit": "2024-03-16T02:16:41Z",
             "owner": "bevacqua",
@@ -141,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 6282446,
             "language": "JavaScript",
             "last_commit": "2021-05-09T09:40:03Z",
             "owner": "dwightjack",
@@ -152,66 +157,66 @@
       "title": "Templates"
     },
     {
-      "description": "Suggestions and PRs are welcome! 🤙 If you want to contribute, please read the contribution guidelines.",
-      "items": [],
-      "title": "Contribution"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Awesome JS Books",
-          "description": "This is a curated list of all the best JavaScript books.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2019-06-18T02:09:26Z",
-            "owner": "jonathandion",
-            "repo": "awesome-js-books",
-            "stars": 71
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "My Neovim Config",
-          "description": "Small Neovim configuration written in Lua that is specifically designed for web development.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Lua",
-            "last_commit": "2023-03-08T21:10:53Z",
-            "owner": "jonathandion",
-            "repo": "web-dev.nvim",
-            "stars": 66
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Web Configs",
-          "description": "Monorepo for all common configurations for building web apps.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-17T10:47:27Z",
-            "owner": "jonathandion",
-            "repo": "mono",
-            "stars": 30
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Awesome JS Books",
+              "description": "This is a curated list of all the best JavaScript books.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 96473106,
+                "language": null,
+                "last_commit": "2019-06-18T02:09:26Z",
+                "owner": "jonathandion",
+                "repo": "awesome-js-books",
+                "stars": 71
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "My Neovim Config",
+              "description": "Small Neovim configuration written in Lua that is specifically designed for web development.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 579780716,
+                "language": "Lua",
+                "last_commit": "2023-03-08T21:10:53Z",
+                "owner": "jonathandion",
+                "repo": "web-dev.nvim",
+                "stars": 66
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Web Configs",
+              "description": "Monorepo for all common configurations for building web apps.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 607325717,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T07:04:26Z",
+                "owner": "jonathandion",
+                "repo": "mono",
+                "stars": 30
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Check Also"
         }
       ],
-      "title": "Check Also"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "License"
+      "title": "Learning"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T08:02:34.658Z",
+    "last_updated": "2026-08-19T08:03:21.125Z",
     "original_repository": "jonathandion/awesome-emails",
     "original_repository_sha": "27d4f20fccc9a9b779870bf3fd901d5cf3edac10",
     "enhanced_repository": "enhansome/enhansome-emails",
