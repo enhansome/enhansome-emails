@@ -200,7 +200,7 @@
                 "archived": false,
                 "id": 607325717,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T07:04:26Z",
+                "last_commit": "2026-08-21T21:30:15Z",
                 "owner": "jonathandion",
                 "repo": "mono",
                 "stars": 30
@@ -216,7 +216,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T08:05:06.581Z",
+    "last_updated": "2026-08-22T07:54:06.266Z",
     "original_repository": "jonathandion/awesome-emails",
     "original_repository_id": 40975869,
     "original_repository_sha": "27d4f20fccc9a9b779870bf3fd901d5cf3edac10",
