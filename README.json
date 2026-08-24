@@ -160,6 +160,132 @@
       "description": null,
       "items": [
         {
+          "node_type": "item",
+          "title": "email-verifier",
+          "description": "A tool for email verification without sending any emails.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 322539168,
+            "language": "Go",
+            "last_commit": "2026-08-24T11:33:00Z",
+            "owner": "AfterShip",
+            "repo": "email-verifier",
+            "stars": 1602
+          }
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Postal",
+          "description": "A fully featured open source mail delivery platform for incoming & outgoing e-mail.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 88740103,
+            "language": "Ruby",
+            "last_commit": "2026-08-18T02:35:19Z",
+            "owner": "postalserver",
+            "repo": "postal",
+            "stars": 16765
+          }
+        }
+      ],
+      "title": "Services"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SimpleLogin",
+          "description": "Self-hosted email alias solution.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 228877522,
+            "language": "Python",
+            "last_commit": "2026-08-17T09:58:47Z",
+            "owner": "simple-login",
+            "repo": "app",
+            "stars": 6945
+          }
+        }
+      ],
+      "title": "Self-Hosted Services"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Darylldoyle Gulp workflow",
+          "description": "Gulp Email Creator is a gulp workflow inspired by Lee Munroe's grunt-email-design workflow.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 19955864,
+            "language": "JavaScript",
+            "last_commit": "2017-07-13T08:52:30Z",
+            "owner": "darylldoyle",
+            "repo": "Gulp-Email-Creator",
+            "stars": 165
+          }
+        }
+      ],
+      "title": "Articles"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Email marketing regulations",
+          "description": "A guide to email marketing regulations around the world.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 176302747,
+            "language": null,
+            "last_commit": "2026-07-23T09:41:05Z",
+            "owner": "threeheartsdigital",
+            "repo": "email-marketing-regulations",
+            "stars": 469
+          }
+        }
+      ],
+      "title": "Resources"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MailHog",
+          "description": "A local fake SMTP server (based on Go).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 18858585,
+            "language": "Go",
+            "last_commit": "2024-02-13T18:38:41Z",
+            "owner": "mailhog",
+            "repo": "MailHog",
+            "stars": 16132
+          }
+        }
+      ],
+      "title": "Testing"
+    },
+    {
+      "description": null,
+      "items": [
+        {
           "children": [
             {
               "node_type": "item",
@@ -216,7 +342,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T08:10:46.421Z",
+    "last_updated": "2026-08-24T14:04:47.263Z",
     "original_repository": "jonathandion/awesome-emails",
     "original_repository_id": 40975869,
     "original_repository_sha": "27d4f20fccc9a9b779870bf3fd901d5cf3edac10",

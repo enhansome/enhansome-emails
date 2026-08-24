@@ -75,6 +75,7 @@ AWESOME EMAILS ✉ ✨
 
 ## Tools
 
+* [email-verifier](https://github.com/AfterShip/email-verifier) ⭐ 1,602 | 🐛 23 | 🌐 Go | 📅 2026-08-24 - A tool for email verification without sending any emails.
 * [Can I Email](https://www.caniemail.com/) - Can I email… Support tables for HTML and CSS in emails.
 * [Topol](https://topol.io/) - Create stunning responsive HTML e-mails in a minute.
 * [MJML Desktop App](https://mjmlio.github.io/mjml-app/) - MJML official desktop app.
@@ -92,12 +93,12 @@ AWESOME EMAILS ✉ ✨
 * [HTML Crush](https://htmlcrush.com/) - Email-friendly HTML minifier: limits lines to 500 chars. (best practice), respects Outlook conditional tags and accepts mixed sources, including ESP templating tags. Optionally, can only remove indentations (not touching line breaks).
 * [Tabifier](https://tools.arantius.com/tabifier) - Opposite of HTML Crush - a tool to beautify the indentation in HTML files. Works with mixed input sources, including your ESP templating tags.
 * [Email Link Builder](https://email-link-builder.samcarlton.com/) - Make mailto links that open email drafts with prefilled Recipients, Subject, Body and more.
-* [email-verifier](https://github.com/AfterShip/email-verifier) ⭐ 1,601 | 🐛 24 | 🌐 Go | 📅 2026-08-24 - A tool for email verification without sending any emails.
 * [DevMail](https://devmail.email/) - An email sandbox for software developers. Capture emails from your dev, staging, QA, or CI environment.
 * [Disposable Email Check API](https://open.kickbox.com/) - A free API for checking if an email address is disposable. No sign up required.
 
 ## Services
 
+* [Postal](https://github.com/atech/postal) ⭐ 16,765 | 🐛 89 | 🌐 Ruby | 📅 2026-08-18 - A fully featured open source mail delivery platform for incoming & outgoing e-mail.
 * [Resend](https://resend.com/) - Build, test, and send transactional emails at scale.
 * [EmailOctopus](https://emailoctopus.com) - Email marketing made easy.
 * [Mailchimp](https://mailchimp.com/) - MailChimp provides email marketing for more than 15 million people globally.
@@ -105,7 +106,6 @@ AWESOME EMAILS ✉ ✨
 * [Mailscribe Mailmaker](https://mailscribe.com/page/mailmaker) - AI-powered email marketing platform that allows to design email with built-in components.
 * [Campaign monitor](https://www.campaignmonitor.com/) - Campaign Monitor makes it easy for you to create, send, and optimize your email marketing campaigns.
 * [Sendgrid](https://sendgrid.com/) - Delivering your transactional and marketing email through one reliable platform.
-* [Postal](https://github.com/atech/postal) ⭐ 16,764 | 🐛 89 | 🌐 Ruby | 📅 2026-08-18 - A fully featured open source mail delivery platform for incoming & outgoing e-mail.
 * [SparkPost](https://www.sparkpost.com/) - Your application’s emails: Delivered on time and to the inbox.
 * [Mautic](https://mautic.com/) - Mautic Marketing Automation. Build smarter campaigns – and build them faster – with marketing automation that’s quick to learn, simple to use, and easy to iterate.
 * [Mailgun](https://www.mailgun.com/) - Transactional Email API Service For Developers.
@@ -121,6 +121,7 @@ AWESOME EMAILS ✉ ✨
 
 ## Self-Hosted Services
 
+* [SimpleLogin](https://github.com/simple-login/app) ⭐ 6,945 | 🐛 254 | 🌐 Python | 📅 2026-08-17 - Self-hosted email alias solution.
 * [Cloud Seeder](https://ipv6.rs/cloudseeder) - 1-click Install and Upgrade a Postfix+Dovecot or Stalwart mail server instance, hands free.
 * [iRedMail](https://iredmail.org/) - Easy to install open source mail server solution.
 * [Mail-in-a-box](https://mailinabox.email/) - Lets you become your own mail service provider in a few easy steps.
@@ -129,14 +130,13 @@ AWESOME EMAILS ✉ ✨
 * [Mautic](https://mautic.org/) - Mautic Marketing Automation. Build smarter campaigns – and build them faster – with marketing automation that’s quick to learn, simple to use, and easy to iterate.
 * [Modoboa](https://modoboa.org/) - A solution to quickly deploy and manage a complete email server, compatible with latest standards and optimized for delivery and reputation protection.
 * [Poste.io](https://poste.io/) - Complete mailserver built in one docker container.
-* [SimpleLogin](https://github.com/simple-login/app) ⭐ 6,944 | 🐛 254 | 🌐 Python | 📅 2026-08-17 - Self-hosted email alias solution.
 
 ## Articles
 
+* [Darylldoyle Gulp workflow](https://github.com/darylldoyle/Gulp-Email-Creator) ⭐ 165 | 🐛 3 | 🌐 JavaScript | 📅 2017-07-13 - Gulp Email Creator is a gulp workflow inspired by Lee Munroe's grunt-email-design workflow.
 * [My Wonderful HTML Email Workflow](https://www.joshwcomeau.com/react/wonderful-emails-with-mjml-and-mdx/) - My Wonderful HTML Email Workflow, using MJML and MDX for responsive emails.
 * [Email Design Workflow](http://www.leemunroe.com/email-design-workflow/) - An email design workflow by By Lee Munroe.
 * [Composing better emails](https://iridakos.com/how-to/2019/06/26/composing-better-emails.html) - Tips for writing effective emails.
-* [Darylldoyle Gulp workflow](https://github.com/darylldoyle/Gulp-Email-Creator) ⭐ 165 | 🐛 3 | 🌐 JavaScript | 📅 2017-07-13 - Gulp Email Creator is a gulp workflow inspired by Lee Munroe's grunt-email-design workflow.
 * [Html Email Development Workflow](http://www.sitepoint.com/my-current-html-email-development-workflow/) - A Typical Email Development Workflow by Sitepoint.
 
 ## Design
@@ -192,6 +192,7 @@ AWESOME EMAILS ✉ ✨
 
 ## Testing
 
+* [MailHog](https://github.com/mailhog/MailHog) ⭐ 16,132 | 🐛 255 | 🌐 Go | 📅 2024-02-13 A local fake SMTP server (based on Go).
 * [PutsMail](https://putsmail.com/) - Free tool to test your HTML emails before sending them!
 * [Litmus](https://litmus.com/) - Test and track your emails with Litmus.
 * [Campaign Monitor](https://www.campaignmonitor.com/testing/) - Test your design in all the different email client with Campaign Monitor.
@@ -199,7 +200,6 @@ AWESOME EMAILS ✉ ✨
 * [Gulp Litmus](https://www.npmjs.com/package/gulp-litmus) - Send email tests to Litmus with gulp.
 * [MailTrap](https://mailtrap.io) - A Fake SMTP Server to Test, View and Share emails without spamming real customers.
 * [testmail.app](https://testmail.app) - A fake SMTP server with unlimited mailboxes and a GraphQL API for automating end-to-end tests.
-* [MailHog](https://github.com/mailhog/MailHog) ⭐ 16,131 | 🐛 255 | 🌐 Go | 📅 2024-02-13 A local fake SMTP server (based on Go).
 * [MailCatcher](https://mailcatcher.me/) A local fake SMTP server (based on Ruby).
 * [Email Privacy Tester](https://www.emailprivacytester.com/) - A tool to test your email client's priacy features (loading remote content).
 * [Mail Tester](https://www.mail-tester.com/) - Test the spammyness of your emails.
@@ -218,7 +218,7 @@ AWESOME EMAILS ✉ ✨
 ### Contribution
 
 Suggestions and PRs are welcome! 🤙
-If you want to contribute, please read the [contribution guidelines](https://github.com/jonathandion/awesome-emails/blob/master/contributing.md) ⭐ 2,731 | 🐛 46 | 📅 2024-10-03.
+If you want to contribute, please read the [contribution guidelines](https://github.com/jonathandion/awesome-emails/blob/master/contributing.md) ⭐ 2,732 | 🐛 46 | 📅 2024-10-03.
 
 ### Check Also
 
