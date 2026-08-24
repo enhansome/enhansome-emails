@@ -45,7 +45,7 @@
             "last_commit": "2024-07-16T01:43:44Z",
             "owner": "emailmonday",
             "repo": "Cerberus",
-            "stars": 5128
+            "stars": 5129
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2023-04-02T06:24:38Z",
             "owner": "ActiveCampaign",
             "repo": "postmark-templates",
-            "stars": 3195
+            "stars": 3194
           }
         },
         {
@@ -216,7 +216,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T07:56:11.999Z",
+    "last_updated": "2026-08-24T08:10:46.421Z",
     "original_repository": "jonathandion/awesome-emails",
     "original_repository_id": 40975869,
     "original_repository_sha": "27d4f20fccc9a9b779870bf3fd901d5cf3edac10",
