@@ -168,7 +168,7 @@
             "archived": false,
             "id": 322539168,
             "language": "Go",
-            "last_commit": "2026-08-24T11:33:00Z",
+            "last_commit": "2026-08-25T04:03:31Z",
             "owner": "AfterShip",
             "repo": "email-verifier",
             "stars": 1602
@@ -192,7 +192,7 @@
             "last_commit": "2026-08-18T02:35:19Z",
             "owner": "postalserver",
             "repo": "postal",
-            "stars": 16765
+            "stars": 16766
           }
         }
       ],
@@ -210,10 +210,10 @@
             "archived": false,
             "id": 228877522,
             "language": "Python",
-            "last_commit": "2026-08-17T09:58:47Z",
+            "last_commit": "2026-08-24T14:44:40Z",
             "owner": "simple-login",
             "repo": "app",
-            "stars": 6945
+            "stars": 6946
           }
         }
       ],
@@ -276,7 +276,7 @@
             "last_commit": "2024-02-13T18:38:41Z",
             "owner": "mailhog",
             "repo": "MailHog",
-            "stars": 16132
+            "stars": 16134
           }
         }
       ],
@@ -342,7 +342,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:04:47.263Z",
+    "last_updated": "2026-08-25T05:54:18.407Z",
     "original_repository": "jonathandion/awesome-emails",
     "original_repository_id": 40975869,
     "original_repository_sha": "27d4f20fccc9a9b779870bf3fd901d5cf3edac10",
