@@ -39,7 +39,7 @@ AWESOME EMAILS ✉ ✨
 ### Misc
 
 * [MJML](https://mjml.io) - MJML is a markup language designed to reduce the pain of coding a responsive email.
-* [Foundation for Emails](https://github.com/zurb/foundation-emails) ⭐ 7,792 | 🐛 3 | 🌐 HTML | 📅 2026-03-13 - Quickly create responsive HTML emails that work on any device & client. Even Outlook.
+* [Foundation for Emails](https://github.com/zurb/foundation-emails) ⭐ 7,791 | 🐛 3 | 🌐 HTML | 📅 2026-03-13 - Quickly create responsive HTML emails that work on any device & client. Even Outlook.
 * [Email Framework](http://emailframe.work/) - The HTML email framework developed to help you build responsive HTML email.
 * [HEML](https://heml.io) - HEML is an open source markup language for building responsive email.
 * [Acorn](https://docs.thememountain.com/acorn/) - A responsive email framework based on a golden ratio typography grid.
@@ -75,7 +75,7 @@ AWESOME EMAILS ✉ ✨
 
 ## Tools
 
-* [email-verifier](https://github.com/AfterShip/email-verifier) ⭐ 1,602 | 🐛 21 | 🌐 Go | 📅 2026-08-25 - A tool for email verification without sending any emails.
+* [email-verifier](https://github.com/AfterShip/email-verifier) ⭐ 1,602 | 🐛 20 | 🌐 Go | 📅 2026-08-25 - A tool for email verification without sending any emails.
 * [Can I Email](https://www.caniemail.com/) - Can I email… Support tables for HTML and CSS in emails.
 * [Topol](https://topol.io/) - Create stunning responsive HTML e-mails in a minute.
 * [MJML Desktop App](https://mjmlio.github.io/mjml-app/) - MJML official desktop app.
@@ -121,7 +121,7 @@ AWESOME EMAILS ✉ ✨
 
 ## Self-Hosted Services
 
-* [SimpleLogin](https://github.com/simple-login/app) ⭐ 6,946 | 🐛 255 | 🌐 Python | 📅 2026-08-24 - Self-hosted email alias solution.
+* [SimpleLogin](https://github.com/simple-login/app) ⭐ 6,946 | 🐛 254 | 🌐 Python | 📅 2026-08-25 - Self-hosted email alias solution.
 * [Cloud Seeder](https://ipv6.rs/cloudseeder) - 1-click Install and Upgrade a Postfix+Dovecot or Stalwart mail server instance, hands free.
 * [iRedMail](https://iredmail.org/) - Easy to install open source mail server solution.
 * [Mail-in-a-box](https://mailinabox.email/) - Lets you become your own mail service provider in a few easy steps.
