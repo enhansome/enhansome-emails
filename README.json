@@ -105,7 +105,7 @@
             "last_commit": "2024-05-02T16:46:22Z",
             "owner": "leemunroe",
             "repo": "grunt-email-workflow",
-            "stars": 3034
+            "stars": 3035
           }
         },
         {
@@ -168,10 +168,10 @@
             "archived": false,
             "id": 322539168,
             "language": "Go",
-            "last_commit": "2026-08-25T04:03:31Z",
+            "last_commit": "2026-08-25T09:26:51Z",
             "owner": "AfterShip",
             "repo": "email-verifier",
-            "stars": 1602
+            "stars": 1604
           }
         }
       ],
@@ -192,7 +192,7 @@
             "last_commit": "2026-08-18T02:35:19Z",
             "owner": "postalserver",
             "repo": "postal",
-            "stars": 16766
+            "stars": 16765
           }
         }
       ],
@@ -213,7 +213,7 @@
             "last_commit": "2026-08-25T06:18:27Z",
             "owner": "simple-login",
             "repo": "app",
-            "stars": 6946
+            "stars": 6950
           }
         }
       ],
@@ -276,7 +276,7 @@
             "last_commit": "2024-02-13T18:38:41Z",
             "owner": "mailhog",
             "repo": "MailHog",
-            "stars": 16134
+            "stars": 16139
           }
         }
       ],
@@ -326,7 +326,7 @@
                 "archived": false,
                 "id": 607325717,
                 "language": "TypeScript",
-                "last_commit": "2026-08-22T12:29:48Z",
+                "last_commit": "2026-08-25T20:43:56Z",
                 "owner": "jonathandion",
                 "repo": "mono",
                 "stars": 30
@@ -342,7 +342,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T08:06:55.479Z",
+    "last_updated": "2026-08-26T08:07:40.300Z",
     "original_repository": "jonathandion/awesome-emails",
     "original_repository_id": 40975869,
     "original_repository_sha": "27d4f20fccc9a9b779870bf3fd901d5cf3edac10",
