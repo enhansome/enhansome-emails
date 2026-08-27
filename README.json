@@ -90,7 +90,7 @@
             "last_commit": "2023-04-02T06:24:38Z",
             "owner": "ActiveCampaign",
             "repo": "postmark-templates",
-            "stars": 3194
+            "stars": 3195
           }
         },
         {
@@ -168,10 +168,10 @@
             "archived": false,
             "id": 322539168,
             "language": "Go",
-            "last_commit": "2026-08-25T09:26:51Z",
+            "last_commit": "2026-08-26T09:38:51Z",
             "owner": "AfterShip",
             "repo": "email-verifier",
-            "stars": 1604
+            "stars": 1607
           }
         }
       ],
@@ -192,7 +192,7 @@
             "last_commit": "2026-08-18T02:35:19Z",
             "owner": "postalserver",
             "repo": "postal",
-            "stars": 16765
+            "stars": 16770
           }
         }
       ],
@@ -213,7 +213,7 @@
             "last_commit": "2026-08-25T06:18:27Z",
             "owner": "simple-login",
             "repo": "app",
-            "stars": 6950
+            "stars": 6952
           }
         }
       ],
@@ -276,7 +276,7 @@
             "last_commit": "2024-02-13T18:38:41Z",
             "owner": "mailhog",
             "repo": "MailHog",
-            "stars": 16139
+            "stars": 16138
           }
         }
       ],
@@ -326,7 +326,7 @@
                 "archived": false,
                 "id": 607325717,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T20:43:56Z",
+                "last_commit": "2026-08-26T18:06:44Z",
                 "owner": "jonathandion",
                 "repo": "mono",
                 "stars": 30
@@ -342,9 +342,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T08:07:40.300Z",
-    "original_repository": "jonathandion/awesome-emails",
-    "original_repository_id": 40975869,
+    "last_updated": "2026-08-27T11:36:08.950Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 40975869,
+      "language": null,
+      "last_commit": "2024-10-03T21:09:35Z",
+      "owner": "jonathandion",
+      "repo": "awesome-emails",
+      "stars": 2736
+    },
     "original_repository_sha": "27d4f20fccc9a9b779870bf3fd901d5cf3edac10",
     "enhanced_repository": "enhansome/enhansome-emails",
     "enhanced_repository_description": null,
