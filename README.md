@@ -39,7 +39,7 @@ AWESOME EMAILS ✉ ✨
 ### Misc
 
 * [MJML](https://mjml.io) - MJML is a markup language designed to reduce the pain of coding a responsive email.
-* [Foundation for Emails](https://github.com/zurb/foundation-emails) ⭐ 7,791 | 🐛 3 | 🌐 HTML | 📅 2026-03-13 - Quickly create responsive HTML emails that work on any device & client. Even Outlook.
+* [Foundation for Emails](https://github.com/zurb/foundation-emails) ⭐ 7,790 | 🐛 3 | 🌐 HTML | 📅 2026-03-13 - Quickly create responsive HTML emails that work on any device & client. Even Outlook.
 * [Email Framework](http://emailframe.work/) - The HTML email framework developed to help you build responsive HTML email.
 * [HEML](https://heml.io) - HEML is an open source markup language for building responsive email.
 * [Acorn](https://docs.thememountain.com/acorn/) - A responsive email framework based on a golden ratio typography grid.
@@ -52,7 +52,7 @@ AWESOME EMAILS ✉ ✨
 
 ## Templates
 
-* [Mailchimp Email Blueprints](https://github.com/mailchimp/Email-Blueprints) ⭐ 7,026 | 🐛 37 | 📅 2019-10-23 - Email Blueprints is a collection of HTML email templates that can serve as a solid foundation and starting point for the design of emails.
+* [Mailchimp Email Blueprints](https://github.com/mailchimp/Email-Blueprints) ⭐ 7,025 | 🐛 37 | 📅 2019-10-23 - Email Blueprints is a collection of HTML email templates that can serve as a solid foundation and starting point for the design of emails.
 * [Responsive Transactional HTML Email Templates](https://github.com/mailgun/transactional-email-templates) ⭐ 6,927 | 🐛 12 | 🌐 HTML | 📅 2022-02-03 - Each template is responsive and each has been tested in all the popular email clients.
 * [Cerberus](https://github.com/TedGoas/Cerberus) ⭐ 5,129 | 🐛 13 | 🌐 HTML | 📅 2024-07-16 - Few responsive email patterns.
 * [Email boilerplate](https://github.com/seanpowell/Email-Boilerplate) ⭐ 3,791 | 🐛 22 | 🌐 HTML | 📅 2021-04-28 - The email boilerplate for sending out nicely formatted messages.
@@ -75,7 +75,7 @@ AWESOME EMAILS ✉ ✨
 
 ## Tools
 
-* [email-verifier](https://github.com/AfterShip/email-verifier) ⭐ 1,608 | 🐛 20 | 🌐 Go | 📅 2026-08-26 - A tool for email verification without sending any emails.
+* [email-verifier](https://github.com/AfterShip/email-verifier) ⭐ 1,609 | 🐛 20 | 🌐 Go | 📅 2026-08-26 - A tool for email verification without sending any emails.
 * [Can I Email](https://www.caniemail.com/) - Can I email… Support tables for HTML and CSS in emails.
 * [Topol](https://topol.io/) - Create stunning responsive HTML e-mails in a minute.
 * [MJML Desktop App](https://mjmlio.github.io/mjml-app/) - MJML official desktop app.
@@ -98,7 +98,7 @@ AWESOME EMAILS ✉ ✨
 
 ## Services
 
-* [Postal](https://github.com/atech/postal) ⭐ 16,770 | 🐛 89 | 🌐 Ruby | 📅 2026-08-18 - A fully featured open source mail delivery platform for incoming & outgoing e-mail.
+* [Postal](https://github.com/atech/postal) ⭐ 16,772 | 🐛 89 | 🌐 Ruby | 📅 2026-08-18 - A fully featured open source mail delivery platform for incoming & outgoing e-mail.
 * [Resend](https://resend.com/) - Build, test, and send transactional emails at scale.
 * [EmailOctopus](https://emailoctopus.com) - Email marketing made easy.
 * [Mailchimp](https://mailchimp.com/) - MailChimp provides email marketing for more than 15 million people globally.
@@ -192,7 +192,7 @@ AWESOME EMAILS ✉ ✨
 
 ## Testing
 
-* [MailHog](https://github.com/mailhog/MailHog) ⭐ 16,139 | 🐛 255 | 🌐 Go | 📅 2024-02-13 A local fake SMTP server (based on Go).
+* [MailHog](https://github.com/mailhog/MailHog) ⭐ 16,138 | 🐛 255 | 🌐 Go | 📅 2024-02-13 A local fake SMTP server (based on Go).
 * [PutsMail](https://putsmail.com/) - Free tool to test your HTML emails before sending them!
 * [Litmus](https://litmus.com/) - Test and track your emails with Litmus.
 * [Campaign Monitor](https://www.campaignmonitor.com/testing/) - Test your design in all the different email client with Campaign Monitor.
@@ -218,13 +218,13 @@ AWESOME EMAILS ✉ ✨
 ### Contribution
 
 Suggestions and PRs are welcome! 🤙
-If you want to contribute, please read the [contribution guidelines](https://github.com/jonathandion/awesome-emails/blob/master/contributing.md) ⭐ 2,736 | 🐛 47 | 📅 2024-10-03.
+If you want to contribute, please read the [contribution guidelines](https://github.com/jonathandion/awesome-emails/blob/master/contributing.md) ⭐ 2,739 | 🐛 47 | 📅 2024-10-03.
 
 ### Check Also
 
 * [Awesome JS Books](https://github.com/jonathandion/awesome-js-books) ⭐ 71 | 🐛 0 | 📅 2019-06-18 - This is a curated list of all the best JavaScript books.
 * [My Neovim Config](https://github.com/jonathandion/web-dev.nvim) ⭐ 66 | 🐛 1 | 🌐 Lua | 📅 2023-03-08 - Small Neovim configuration written in Lua that is specifically designed for web development.
-* [Web Configs](https://github.com/jonathandion/web-configs) ⭐ 30 | 🐛 16 | 🌐 TypeScript | 📅 2026-08-26 - Monorepo for all common configurations for building web apps.
+* [Web Configs](https://github.com/jonathandion/web-configs) ⭐ 30 | 🐛 16 | 🌐 TypeScript | 📅 2026-08-27 - Monorepo for all common configurations for building web apps.
 
 ### License
 
@@ -232,4 +232,4 @@ If you want to contribute, please read the [contribution guidelines](https://git
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
