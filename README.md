@@ -98,7 +98,7 @@ AWESOME EMAILS ✉ ✨
 
 ## Services
 
-* [Postal](https://github.com/atech/postal) ⭐ 16,775 | 🐛 95 | 🌐 Ruby | 📅 2026-08-18 - A fully featured open source mail delivery platform for incoming & outgoing e-mail.
+* [Postal](https://github.com/atech/postal) ⭐ 16,777 | 🐛 95 | 🌐 Ruby | 📅 2026-08-18 - A fully featured open source mail delivery platform for incoming & outgoing e-mail.
 * [Resend](https://resend.com/) - Build, test, and send transactional emails at scale.
 * [EmailOctopus](https://emailoctopus.com) - Email marketing made easy.
 * [Mailchimp](https://mailchimp.com/) - MailChimp provides email marketing for more than 15 million people globally.
@@ -121,7 +121,7 @@ AWESOME EMAILS ✉ ✨
 
 ## Self-Hosted Services
 
-* [SimpleLogin](https://github.com/simple-login/app) ⭐ 6,957 | 🐛 256 | 🌐 Python | 📅 2026-08-25 - Self-hosted email alias solution.
+* [SimpleLogin](https://github.com/simple-login/app) ⭐ 6,958 | 🐛 256 | 🌐 Python | 📅 2026-09-01 - Self-hosted email alias solution.
 * [Cloud Seeder](https://ipv6.rs/cloudseeder) - 1-click Install and Upgrade a Postfix+Dovecot or Stalwart mail server instance, hands free.
 * [iRedMail](https://iredmail.org/) - Easy to install open source mail server solution.
 * [Mail-in-a-box](https://mailinabox.email/) - Lets you become your own mail service provider in a few easy steps.
@@ -224,7 +224,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 
 * [Awesome JS Books](https://github.com/jonathandion/awesome-js-books) ⭐ 71 | 🐛 0 | 📅 2019-06-18 - This is a curated list of all the best JavaScript books.
 * [My Neovim Config](https://github.com/jonathandion/web-dev.nvim) ⭐ 66 | 🐛 1 | 🌐 Lua | 📅 2023-03-08 - Small Neovim configuration written in Lua that is specifically designed for web development.
-* [Web Configs](https://github.com/jonathandion/web-configs) ⭐ 30 | 🐛 16 | 🌐 TypeScript | 📅 2026-08-30 - Monorepo for all common configurations for building web apps.
+* [Web Configs](https://github.com/jonathandion/web-configs) ⭐ 30 | 🐛 16 | 🌐 TypeScript | 📅 2026-08-31 - Monorepo for all common configurations for building web apps.
 
 ### License
 
@@ -232,4 +232,4 @@ If you want to contribute, please read the [contribution guidelines](https://git
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
