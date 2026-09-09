@@ -133,7 +133,7 @@
             "open_issues": 13,
             "owner": "ActiveCampaign",
             "repo": "postmark-templates",
-            "stars": 3195,
+            "stars": 3194,
             "topics": []
           },
           "first_seen": "2026-08-28T19:31:17.232Z"
@@ -254,11 +254,11 @@
             "id": 322539168,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-08-26T09:38:51Z",
-            "open_issues": 20,
+            "last_commit": "2026-09-09T11:49:30Z",
+            "open_issues": 21,
             "owner": "AfterShip",
             "repo": "email-verifier",
-            "stars": 1612,
+            "stars": 1614,
             "topics": [
               "disposable",
               "email",
@@ -293,7 +293,7 @@
             "open_issues": 95,
             "owner": "postalserver",
             "repo": "postal",
-            "stars": 16796,
+            "stars": 16797,
             "topics": [
               "mail",
               "mail-server",
@@ -323,10 +323,10 @@
             "language": "Python",
             "license": "AGPL-3.0",
             "last_commit": "2026-09-04T11:51:52Z",
-            "open_issues": 257,
+            "open_issues": 259,
             "owner": "simple-login",
             "repo": "app",
-            "stars": 6972,
+            "stars": 6974,
             "topics": [
               "aliases",
               "email",
@@ -539,7 +539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T12:14:12.311Z",
+    "last_updated": "2026-09-09T12:25:26.503Z",
     "original_repository_info": {
       "archived": false,
       "description": "✉️ An awesome list of resources to build better emails.",
