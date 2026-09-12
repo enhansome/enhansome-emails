@@ -40,7 +40,7 @@
             "open_issues": 12,
             "owner": "mailgun",
             "repo": "transactional-email-templates",
-            "stars": 6926,
+            "stars": 6925,
             "topics": []
           },
           "first_seen": "2026-08-28T19:31:17.232Z"
@@ -61,7 +61,7 @@
             "open_issues": 13,
             "owner": "emailmonday",
             "repo": "Cerberus",
-            "stars": 5135,
+            "stars": 5134,
             "topics": [
               "cerberus",
               "email",
@@ -112,7 +112,7 @@
             "open_issues": 3,
             "owner": "InterNations",
             "repo": "antwort",
-            "stars": 3563,
+            "stars": 3562,
             "topics": []
           },
           "first_seen": "2026-08-28T19:31:17.232Z"
@@ -258,7 +258,7 @@
             "open_issues": 22,
             "owner": "AfterShip",
             "repo": "email-verifier",
-            "stars": 1616,
+            "stars": 1618,
             "topics": [
               "disposable",
               "email",
@@ -293,7 +293,7 @@
             "open_issues": 94,
             "owner": "postalserver",
             "repo": "postal",
-            "stars": 16805,
+            "stars": 16806,
             "topics": [
               "mail",
               "mail-server",
@@ -326,7 +326,7 @@
             "open_issues": 260,
             "owner": "simple-login",
             "repo": "app",
-            "stars": 6980,
+            "stars": 6982,
             "topics": [
               "aliases",
               "email",
@@ -539,7 +539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T12:17:51.752Z",
+    "last_updated": "2026-09-12T11:41:12.456Z",
     "original_repository_info": {
       "archived": false,
       "description": "✉️ An awesome list of resources to build better emails.",
@@ -551,7 +551,7 @@
       "open_issues": 48,
       "owner": "jonathandion",
       "repo": "awesome-emails",
-      "stars": 2744,
+      "stars": 2745,
       "topics": [
         "awesome",
         "email",
