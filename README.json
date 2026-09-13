@@ -254,8 +254,8 @@
             "id": 322539168,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-11T06:14:20Z",
-            "open_issues": 22,
+            "last_commit": "2026-09-13T03:17:48Z",
+            "open_issues": 21,
             "owner": "AfterShip",
             "repo": "email-verifier",
             "stars": 1618,
@@ -289,8 +289,8 @@
             "id": 88740103,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-09-05T01:41:12Z",
-            "open_issues": 94,
+            "last_commit": "2026-09-13T12:13:22Z",
+            "open_issues": 93,
             "owner": "postalserver",
             "repo": "postal",
             "stars": 16806,
@@ -326,7 +326,7 @@
             "open_issues": 260,
             "owner": "simple-login",
             "repo": "app",
-            "stars": 6982,
+            "stars": 6981,
             "topics": [
               "aliases",
               "email",
@@ -428,7 +428,7 @@
             "open_issues": 256,
             "owner": "mailhog",
             "repo": "MailHog",
-            "stars": 16148,
+            "stars": 16150,
             "topics": []
           },
           "first_seen": "2026-08-28T19:31:17.232Z"
@@ -514,7 +514,7 @@
                 "id": 607325717,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-10T20:39:09Z",
+                "last_commit": "2026-09-12T17:15:29Z",
                 "open_issues": 16,
                 "owner": "jonathandion",
                 "repo": "mono",
@@ -539,7 +539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T11:41:12.456Z",
+    "last_updated": "2026-09-13T12:48:14.446Z",
     "original_repository_info": {
       "archived": false,
       "description": "✉️ An awesome list of resources to build better emails.",
@@ -548,7 +548,7 @@
       "language": null,
       "license": null,
       "last_commit": "2024-10-03T21:09:35Z",
-      "open_issues": 48,
+      "open_issues": 49,
       "owner": "jonathandion",
       "repo": "awesome-emails",
       "stars": 2745,
