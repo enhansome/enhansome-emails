@@ -75,7 +75,7 @@ AWESOME EMAILS ✉ ✨
 
 ## Tools
 
-* [email-verifier](https://github.com/AfterShip/email-verifier) ⭐ 1,619 | 🐛 27 | 🌐 Go | 📅 2026-09-15 - A tool for email verification without sending any emails.
+* [email-verifier](https://github.com/AfterShip/email-verifier) ⭐ 1,619 | 🐛 26 | 🌐 Go | 📅 2026-09-15 - A tool for email verification without sending any emails.
 * [Can I Email](https://www.caniemail.com/) - Can I email… Support tables for HTML and CSS in emails.
 * [Topol](https://topol.io/) - Create stunning responsive HTML e-mails in a minute.
 * [MJML Desktop App](https://mjmlio.github.io/mjml-app/) - MJML official desktop app.
@@ -98,7 +98,7 @@ AWESOME EMAILS ✉ ✨
 
 ## Services
 
-* [Postal](https://github.com/atech/postal) ⭐ 16,812 | 🐛 94 | 🌐 Ruby | 📅 2026-09-15 - A fully featured open source mail delivery platform for incoming & outgoing e-mail.
+* [Postal](https://github.com/atech/postal) ⭐ 16,814 | 🐛 94 | 🌐 Ruby | 📅 2026-09-15 - A fully featured open source mail delivery platform for incoming & outgoing e-mail.
 * [Resend](https://resend.com/) - Build, test, and send transactional emails at scale.
 * [EmailOctopus](https://emailoctopus.com) - Email marketing made easy.
 * [Mailchimp](https://mailchimp.com/) - MailChimp provides email marketing for more than 15 million people globally.
@@ -121,7 +121,7 @@ AWESOME EMAILS ✉ ✨
 
 ## Self-Hosted Services
 
-* [SimpleLogin](https://github.com/simple-login/app) ⭐ 6,989 | 🐛 259 | 🌐 Python | 📅 2026-09-15 - Self-hosted email alias solution.
+* [SimpleLogin](https://github.com/simple-login/app) ⭐ 6,991 | 🐛 261 | 🌐 Python | 📅 2026-09-17 - Self-hosted email alias solution.
 * [Cloud Seeder](https://ipv6.rs/cloudseeder) - 1-click Install and Upgrade a Postfix+Dovecot or Stalwart mail server instance, hands free.
 * [iRedMail](https://iredmail.org/) - Easy to install open source mail server solution.
 * [Mail-in-a-box](https://mailinabox.email/) - Lets you become your own mail service provider in a few easy steps.
@@ -192,7 +192,7 @@ AWESOME EMAILS ✉ ✨
 
 ## Testing
 
-* [MailHog](https://github.com/mailhog/MailHog) ⭐ 16,156 | 🐛 256 | 🌐 Go | 📅 2024-02-13 A local fake SMTP server (based on Go).
+* [MailHog](https://github.com/mailhog/MailHog) ⭐ 16,161 | 🐛 256 | 🌐 Go | 📅 2024-02-13 A local fake SMTP server (based on Go).
 * [PutsMail](https://putsmail.com/) - Free tool to test your HTML emails before sending them!
 * [Litmus](https://litmus.com/) - Test and track your emails with Litmus.
 * [Campaign Monitor](https://www.campaignmonitor.com/testing/) - Test your design in all the different email client with Campaign Monitor.
@@ -218,7 +218,7 @@ AWESOME EMAILS ✉ ✨
 ### Contribution
 
 Suggestions and PRs are welcome! 🤙
-If you want to contribute, please read the [contribution guidelines](https://github.com/jonathandion/awesome-emails/blob/master/contributing.md) ⭐ 2,744 | 🐛 50 | 📅 2024-10-03.
+If you want to contribute, please read the [contribution guidelines](https://github.com/jonathandion/awesome-emails/blob/master/contributing.md) ⭐ 2,744 | 🐛 51 | 📅 2024-10-03.
 
 ### Check Also
 
@@ -232,4 +232,4 @@ If you want to contribute, please read the [contribution guidelines](https://git
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
