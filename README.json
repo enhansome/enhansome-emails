@@ -258,7 +258,7 @@
             "open_issues": 26,
             "owner": "AfterShip",
             "repo": "email-verifier",
-            "stars": 1619,
+            "stars": 1620,
             "topics": [
               "disposable",
               "email",
@@ -289,11 +289,11 @@
             "id": 88740103,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-09-15T09:27:29Z",
-            "open_issues": 94,
+            "last_commit": "2026-09-18T01:46:07Z",
+            "open_issues": 93,
             "owner": "postalserver",
             "repo": "postal",
-            "stars": 16814,
+            "stars": 16813,
             "topics": [
               "mail",
               "mail-server",
@@ -322,8 +322,8 @@
             "id": 228877522,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-17T11:24:54Z",
-            "open_issues": 261,
+            "last_commit": "2026-09-18T10:21:17Z",
+            "open_issues": 259,
             "owner": "simple-login",
             "repo": "app",
             "stars": 6991,
@@ -539,7 +539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T12:41:24.893Z",
+    "last_updated": "2026-09-18T12:18:45.959Z",
     "original_repository_info": {
       "archived": false,
       "description": "✉️ An awesome list of resources to build better emails.",
@@ -548,7 +548,7 @@
       "language": null,
       "license": null,
       "last_commit": "2024-10-03T21:09:35Z",
-      "open_issues": 51,
+      "open_issues": 50,
       "owner": "jonathandion",
       "repo": "awesome-emails",
       "stars": 2744,
