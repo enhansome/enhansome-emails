@@ -16,7 +16,7 @@
             "language": null,
             "license": null,
             "last_commit": "2019-10-23T04:38:04Z",
-            "open_issues": 37,
+            "open_issues": 36,
             "owner": "mailchimp",
             "repo": "email-blueprints",
             "stars": 7025,
@@ -61,7 +61,7 @@
             "open_issues": 13,
             "owner": "emailmonday",
             "repo": "Cerberus",
-            "stars": 5136,
+            "stars": 5135,
             "topics": [
               "cerberus",
               "email",
@@ -133,7 +133,7 @@
             "open_issues": 13,
             "owner": "ActiveCampaign",
             "repo": "postmark-templates",
-            "stars": 3194,
+            "stars": 3193,
             "topics": []
           },
           "first_seen": "2026-08-28T19:31:17.232Z"
@@ -293,7 +293,7 @@
             "open_issues": 92,
             "owner": "postalserver",
             "repo": "postal",
-            "stars": 16814,
+            "stars": 16816,
             "topics": [
               "mail",
               "mail-server",
@@ -428,7 +428,7 @@
             "open_issues": 256,
             "owner": "mailhog",
             "repo": "MailHog",
-            "stars": 16162,
+            "stars": 16163,
             "topics": []
           },
           "first_seen": "2026-08-28T19:31:17.232Z"
@@ -514,7 +514,7 @@
                 "id": 607325717,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-19T02:45:54Z",
+                "last_commit": "2026-09-19T17:58:58Z",
                 "open_issues": 16,
                 "owner": "jonathandion",
                 "repo": "mono",
@@ -539,7 +539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T11:59:53.451Z",
+    "last_updated": "2026-09-20T12:32:52.604Z",
     "original_repository_info": {
       "archived": false,
       "description": "✉️ An awesome list of resources to build better emails.",
