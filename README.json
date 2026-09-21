@@ -19,7 +19,7 @@
             "open_issues": 36,
             "owner": "mailchimp",
             "repo": "email-blueprints",
-            "stars": 7025,
+            "stars": 7024,
             "topics": []
           },
           "first_seen": "2026-08-28T19:31:17.232Z"
@@ -133,7 +133,7 @@
             "open_issues": 13,
             "owner": "ActiveCampaign",
             "repo": "postmark-templates",
-            "stars": 3193,
+            "stars": 3192,
             "topics": []
           },
           "first_seen": "2026-08-28T19:31:17.232Z"
@@ -293,7 +293,7 @@
             "open_issues": 92,
             "owner": "postalserver",
             "repo": "postal",
-            "stars": 16816,
+            "stars": 16819,
             "topics": [
               "mail",
               "mail-server",
@@ -326,7 +326,7 @@
             "open_issues": 259,
             "owner": "simple-login",
             "repo": "app",
-            "stars": 6991,
+            "stars": 6994,
             "topics": [
               "aliases",
               "email",
@@ -428,7 +428,7 @@
             "open_issues": 256,
             "owner": "mailhog",
             "repo": "MailHog",
-            "stars": 16163,
+            "stars": 16166,
             "topics": []
           },
           "first_seen": "2026-08-28T19:31:17.232Z"
@@ -539,7 +539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T12:32:52.604Z",
+    "last_updated": "2026-09-21T14:25:40.309Z",
     "original_repository_info": {
       "archived": false,
       "description": "✉️ An awesome list of resources to build better emails.",
@@ -551,7 +551,7 @@
       "open_issues": 50,
       "owner": "jonathandion",
       "repo": "awesome-emails",
-      "stars": 2744,
+      "stars": 2746,
       "topics": [
         "awesome",
         "email",
