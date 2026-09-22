@@ -61,7 +61,7 @@
             "open_issues": 13,
             "owner": "emailmonday",
             "repo": "Cerberus",
-            "stars": 5135,
+            "stars": 5136,
             "topics": [
               "cerberus",
               "email",
@@ -290,10 +290,10 @@
             "language": "Ruby",
             "license": "MIT",
             "last_commit": "2026-09-19T01:44:00Z",
-            "open_issues": 92,
+            "open_issues": 94,
             "owner": "postalserver",
             "repo": "postal",
-            "stars": 16819,
+            "stars": 16822,
             "topics": [
               "mail",
               "mail-server",
@@ -326,7 +326,7 @@
             "open_issues": 259,
             "owner": "simple-login",
             "repo": "app",
-            "stars": 6994,
+            "stars": 6997,
             "topics": [
               "aliases",
               "email",
@@ -428,7 +428,7 @@
             "open_issues": 256,
             "owner": "mailhog",
             "repo": "MailHog",
-            "stars": 16166,
+            "stars": 16165,
             "topics": []
           },
           "first_seen": "2026-08-28T19:31:17.232Z"
@@ -514,7 +514,7 @@
                 "id": 607325717,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-19T17:58:58Z",
+                "last_commit": "2026-09-21T19:54:58Z",
                 "open_issues": 16,
                 "owner": "jonathandion",
                 "repo": "mono",
@@ -539,7 +539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T14:25:40.309Z",
+    "last_updated": "2026-09-22T12:45:02.304Z",
     "original_repository_info": {
       "archived": false,
       "description": "✉️ An awesome list of resources to build better emails.",
@@ -548,10 +548,10 @@
       "language": null,
       "license": null,
       "last_commit": "2024-10-03T21:09:35Z",
-      "open_issues": 50,
+      "open_issues": 51,
       "owner": "jonathandion",
       "repo": "awesome-emails",
-      "stars": 2746,
+      "stars": 2747,
       "topics": [
         "awesome",
         "email",
