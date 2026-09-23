@@ -112,7 +112,7 @@
             "open_issues": 3,
             "owner": "InterNations",
             "repo": "antwort",
-            "stars": 3562,
+            "stars": 3561,
             "topics": []
           },
           "first_seen": "2026-08-28T19:31:17.232Z"
@@ -258,7 +258,7 @@
             "open_issues": 26,
             "owner": "AfterShip",
             "repo": "email-verifier",
-            "stars": 1622,
+            "stars": 1623,
             "topics": [
               "disposable",
               "email",
@@ -290,7 +290,7 @@
             "language": "Ruby",
             "license": "MIT",
             "last_commit": "2026-09-19T01:44:00Z",
-            "open_issues": 94,
+            "open_issues": 95,
             "owner": "postalserver",
             "repo": "postal",
             "stars": 16822,
@@ -322,11 +322,11 @@
             "id": 228877522,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-18T10:21:17Z",
+            "last_commit": "2026-09-23T10:33:50Z",
             "open_issues": 259,
             "owner": "simple-login",
             "repo": "app",
-            "stars": 6997,
+            "stars": 6999,
             "topics": [
               "aliases",
               "email",
@@ -539,7 +539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T12:45:02.304Z",
+    "last_updated": "2026-09-23T12:54:04.622Z",
     "original_repository_info": {
       "archived": false,
       "description": "✉️ An awesome list of resources to build better emails.",
