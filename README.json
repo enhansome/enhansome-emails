@@ -61,7 +61,7 @@
             "open_issues": 13,
             "owner": "emailmonday",
             "repo": "Cerberus",
-            "stars": 5136,
+            "stars": 5137,
             "topics": [
               "cerberus",
               "email",
@@ -112,7 +112,7 @@
             "open_issues": 3,
             "owner": "InterNations",
             "repo": "antwort",
-            "stars": 3561,
+            "stars": 3562,
             "topics": []
           },
           "first_seen": "2026-08-28T19:31:17.232Z"
@@ -133,7 +133,7 @@
             "open_issues": 13,
             "owner": "ActiveCampaign",
             "repo": "postmark-templates",
-            "stars": 3192,
+            "stars": 3193,
             "topics": []
           },
           "first_seen": "2026-08-28T19:31:17.232Z"
@@ -258,7 +258,7 @@
             "open_issues": 26,
             "owner": "AfterShip",
             "repo": "email-verifier",
-            "stars": 1623,
+            "stars": 1624,
             "topics": [
               "disposable",
               "email",
@@ -290,10 +290,10 @@
             "language": "Ruby",
             "license": "MIT",
             "last_commit": "2026-09-19T01:44:00Z",
-            "open_issues": 94,
+            "open_issues": 95,
             "owner": "postalserver",
             "repo": "postal",
-            "stars": 16826,
+            "stars": 16828,
             "topics": [
               "mail",
               "mail-server",
@@ -322,11 +322,11 @@
             "id": 228877522,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-23T16:10:13Z",
+            "last_commit": "2026-09-25T12:01:40Z",
             "open_issues": 259,
             "owner": "simple-login",
             "repo": "app",
-            "stars": 7004,
+            "stars": 7009,
             "topics": [
               "aliases",
               "email",
@@ -425,10 +425,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2024-02-13T18:38:41Z",
-            "open_issues": 257,
+            "open_issues": 256,
             "owner": "mailhog",
             "repo": "MailHog",
-            "stars": 16168,
+            "stars": 16167,
             "topics": []
           },
           "first_seen": "2026-08-28T19:31:17.232Z"
@@ -514,7 +514,7 @@
                 "id": 607325717,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-24T01:43:22Z",
+                "last_commit": "2026-09-24T23:05:49Z",
                 "open_issues": 16,
                 "owner": "jonathandion",
                 "repo": "mono",
@@ -539,7 +539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T12:49:44.537Z",
+    "last_updated": "2026-09-25T12:51:53.549Z",
     "original_repository_info": {
       "archived": false,
       "description": "✉️ An awesome list of resources to build better emails.",
