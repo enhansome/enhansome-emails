@@ -91,7 +91,7 @@
             "open_issues": 22,
             "owner": "seanpowell",
             "repo": "Email-Boilerplate",
-            "stars": 3789,
+            "stars": 3788,
             "topics": []
           },
           "first_seen": "2026-08-28T19:31:17.232Z"
@@ -293,7 +293,7 @@
             "open_issues": 95,
             "owner": "postalserver",
             "repo": "postal",
-            "stars": 16829,
+            "stars": 16833,
             "topics": [
               "mail",
               "mail-server",
@@ -326,7 +326,7 @@
             "open_issues": 259,
             "owner": "simple-login",
             "repo": "app",
-            "stars": 7012,
+            "stars": 7015,
             "topics": [
               "aliases",
               "email",
@@ -428,7 +428,7 @@
             "open_issues": 255,
             "owner": "mailhog",
             "repo": "MailHog",
-            "stars": 16167,
+            "stars": 16168,
             "topics": []
           },
           "first_seen": "2026-08-28T19:31:17.232Z"
@@ -539,7 +539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T13:12:04.170Z",
+    "last_updated": "2026-09-28T15:45:16.438Z",
     "original_repository_info": {
       "archived": false,
       "description": "✉️ An awesome list of resources to build better emails.",
@@ -548,10 +548,10 @@
       "language": null,
       "license": null,
       "last_commit": "2024-10-03T21:09:35Z",
-      "open_issues": 51,
+      "open_issues": 52,
       "owner": "jonathandion",
       "repo": "awesome-emails",
-      "stars": 2749,
+      "stars": 2750,
       "topics": [
         "awesome",
         "email",
