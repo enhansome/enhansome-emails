@@ -19,7 +19,7 @@
             "open_issues": 36,
             "owner": "mailchimp",
             "repo": "email-blueprints",
-            "stars": 7024,
+            "stars": 7025,
             "topics": []
           },
           "first_seen": "2026-08-28T19:31:17.232Z"
@@ -40,7 +40,7 @@
             "open_issues": 12,
             "owner": "mailgun",
             "repo": "transactional-email-templates",
-            "stars": 6926,
+            "stars": 6927,
             "topics": []
           },
           "first_seen": "2026-08-28T19:31:17.232Z"
@@ -112,7 +112,7 @@
             "open_issues": 3,
             "owner": "InterNations",
             "repo": "antwort",
-            "stars": 3561,
+            "stars": 3560,
             "topics": []
           },
           "first_seen": "2026-08-28T19:31:17.232Z"
@@ -258,7 +258,7 @@
             "open_issues": 26,
             "owner": "AfterShip",
             "repo": "email-verifier",
-            "stars": 1629,
+            "stars": 1631,
             "topics": [
               "disposable",
               "email",
@@ -289,11 +289,11 @@
             "id": 88740103,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-09-19T01:44:00Z",
-            "open_issues": 95,
+            "last_commit": "2026-10-01T11:33:19Z",
+            "open_issues": 94,
             "owner": "postalserver",
             "repo": "postal",
-            "stars": 16836,
+            "stars": 16842,
             "topics": [
               "mail",
               "mail-server",
@@ -326,7 +326,7 @@
             "open_issues": 263,
             "owner": "simple-login",
             "repo": "app",
-            "stars": 7021,
+            "stars": 7026,
             "topics": [
               "aliases",
               "email",
@@ -514,7 +514,7 @@
                 "id": 607325717,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-29T11:01:48Z",
+                "last_commit": "2026-09-30T19:54:42Z",
                 "open_issues": 16,
                 "owner": "jonathandion",
                 "repo": "mono",
@@ -539,7 +539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T14:03:41.628Z",
+    "last_updated": "2026-10-01T14:40:02.944Z",
     "original_repository_info": {
       "archived": false,
       "description": "✉️ An awesome list of resources to build better emails.",
