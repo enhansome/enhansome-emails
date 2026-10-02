@@ -19,7 +19,7 @@
             "open_issues": 36,
             "owner": "mailchimp",
             "repo": "email-blueprints",
-            "stars": 7025,
+            "stars": 7024,
             "topics": []
           },
           "first_seen": "2026-08-28T19:31:17.232Z"
@@ -40,7 +40,7 @@
             "open_issues": 12,
             "owner": "mailgun",
             "repo": "transactional-email-templates",
-            "stars": 6927,
+            "stars": 6926,
             "topics": []
           },
           "first_seen": "2026-08-28T19:31:17.232Z"
@@ -61,7 +61,7 @@
             "open_issues": 13,
             "owner": "emailmonday",
             "repo": "Cerberus",
-            "stars": 5137,
+            "stars": 5138,
             "topics": [
               "cerberus",
               "email",
@@ -290,10 +290,10 @@
             "language": "Ruby",
             "license": "MIT",
             "last_commit": "2026-10-01T11:33:19Z",
-            "open_issues": 94,
+            "open_issues": 96,
             "owner": "postalserver",
             "repo": "postal",
-            "stars": 16842,
+            "stars": 16846,
             "topics": [
               "mail",
               "mail-server",
@@ -322,11 +322,11 @@
             "id": 228877522,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-29T12:29:52Z",
+            "last_commit": "2026-10-02T10:27:06Z",
             "open_issues": 263,
             "owner": "simple-login",
             "repo": "app",
-            "stars": 7026,
+            "stars": 7028,
             "topics": [
               "aliases",
               "email",
@@ -428,7 +428,7 @@
             "open_issues": 255,
             "owner": "mailhog",
             "repo": "MailHog",
-            "stars": 16171,
+            "stars": 16173,
             "topics": []
           },
           "first_seen": "2026-08-28T19:31:17.232Z"
@@ -539,7 +539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T14:40:02.944Z",
+    "last_updated": "2026-10-02T14:00:17.518Z",
     "original_repository_info": {
       "archived": false,
       "description": "✉️ An awesome list of resources to build better emails.",
