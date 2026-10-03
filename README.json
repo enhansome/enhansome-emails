@@ -91,7 +91,7 @@
             "open_issues": 22,
             "owner": "seanpowell",
             "repo": "Email-Boilerplate",
-            "stars": 3788,
+            "stars": 3786,
             "topics": []
           },
           "first_seen": "2026-08-28T19:31:17.232Z"
@@ -290,10 +290,10 @@
             "language": "Ruby",
             "license": "MIT",
             "last_commit": "2026-10-01T11:33:19Z",
-            "open_issues": 96,
+            "open_issues": 95,
             "owner": "postalserver",
             "repo": "postal",
-            "stars": 16846,
+            "stars": 16847,
             "topics": [
               "mail",
               "mail-server",
@@ -326,7 +326,7 @@
             "open_issues": 263,
             "owner": "simple-login",
             "repo": "app",
-            "stars": 7028,
+            "stars": 7029,
             "topics": [
               "aliases",
               "email",
@@ -428,7 +428,7 @@
             "open_issues": 255,
             "owner": "mailhog",
             "repo": "MailHog",
-            "stars": 16173,
+            "stars": 16172,
             "topics": []
           },
           "first_seen": "2026-08-28T19:31:17.232Z"
@@ -514,7 +514,7 @@
                 "id": 607325717,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-30T19:54:42Z",
+                "last_commit": "2026-10-02T22:17:06Z",
                 "open_issues": 16,
                 "owner": "jonathandion",
                 "repo": "mono",
@@ -539,7 +539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T14:00:17.518Z",
+    "last_updated": "2026-10-03T04:49:54.576Z",
     "original_repository_info": {
       "archived": false,
       "description": "✉️ An awesome list of resources to build better emails.",
