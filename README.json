@@ -19,7 +19,7 @@
             "open_issues": 36,
             "owner": "mailchimp",
             "repo": "email-blueprints",
-            "stars": 7024,
+            "stars": 7023,
             "topics": []
           },
           "first_seen": "2026-08-28T19:31:17.232Z"
@@ -289,11 +289,11 @@
             "id": 88740103,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-10-01T11:33:19Z",
-            "open_issues": 96,
+            "last_commit": "2026-10-06T08:58:36Z",
+            "open_issues": 97,
             "owner": "postalserver",
             "repo": "postal",
-            "stars": 16853,
+            "stars": 16854,
             "topics": [
               "mail",
               "mail-server",
@@ -326,7 +326,7 @@
             "open_issues": 263,
             "owner": "simple-login",
             "repo": "app",
-            "stars": 7034,
+            "stars": 7039,
             "topics": [
               "aliases",
               "email",
@@ -428,7 +428,7 @@
             "open_issues": 255,
             "owner": "mailhog",
             "repo": "MailHog",
-            "stars": 16172,
+            "stars": 16173,
             "topics": []
           },
           "first_seen": "2026-08-28T19:31:17.232Z"
@@ -514,7 +514,7 @@
                 "id": 607325717,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-03T13:31:20Z",
+                "last_commit": "2026-10-05T18:32:25Z",
                 "open_issues": 16,
                 "owner": "jonathandion",
                 "repo": "mono",
@@ -539,7 +539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T16:17:21.489Z",
+    "last_updated": "2026-10-06T10:15:30.242Z",
     "original_repository_info": {
       "archived": false,
       "description": "✉️ An awesome list of resources to build better emails.",
