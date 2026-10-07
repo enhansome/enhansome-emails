@@ -91,7 +91,7 @@
             "open_issues": 22,
             "owner": "seanpowell",
             "repo": "Email-Boilerplate",
-            "stars": 3786,
+            "stars": 3787,
             "topics": []
           },
           "first_seen": "2026-08-28T19:31:17.232Z"
@@ -258,7 +258,7 @@
             "open_issues": 26,
             "owner": "AfterShip",
             "repo": "email-verifier",
-            "stars": 1633,
+            "stars": 1634,
             "topics": [
               "disposable",
               "email",
@@ -290,7 +290,7 @@
             "language": "Ruby",
             "license": "MIT",
             "last_commit": "2026-10-06T08:58:36Z",
-            "open_issues": 97,
+            "open_issues": 96,
             "owner": "postalserver",
             "repo": "postal",
             "stars": 16854,
@@ -322,11 +322,11 @@
             "id": 228877522,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-06T14:17:13Z",
+            "last_commit": "2026-10-07T10:57:05Z",
             "open_issues": 263,
             "owner": "simple-login",
             "repo": "app",
-            "stars": 7040,
+            "stars": 7037,
             "topics": [
               "aliases",
               "email",
@@ -428,7 +428,7 @@
             "open_issues": 255,
             "owner": "mailhog",
             "repo": "MailHog",
-            "stars": 16175,
+            "stars": 16176,
             "topics": []
           },
           "first_seen": "2026-08-28T19:31:17.232Z"
@@ -539,7 +539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T14:21:56.460Z",
+    "last_updated": "2026-10-07T14:38:42.274Z",
     "original_repository_info": {
       "archived": false,
       "description": "✉️ An awesome list of resources to build better emails.",
