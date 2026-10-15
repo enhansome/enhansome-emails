@@ -91,7 +91,7 @@
             "open_issues": 22,
             "owner": "seanpowell",
             "repo": "Email-Boilerplate",
-            "stars": 3787,
+            "stars": 3786,
             "topics": []
           },
           "first_seen": "2026-08-28T19:31:17.232Z"
@@ -258,7 +258,7 @@
             "open_issues": 27,
             "owner": "AfterShip",
             "repo": "email-verifier",
-            "stars": 1642,
+            "stars": 1643,
             "topics": [
               "disposable",
               "email",
@@ -293,7 +293,7 @@
             "open_issues": 95,
             "owner": "postalserver",
             "repo": "postal",
-            "stars": 16864,
+            "stars": 16863,
             "topics": [
               "mail",
               "mail-server",
@@ -322,11 +322,11 @@
             "id": 228877522,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-14T12:57:35Z",
-            "open_issues": 262,
+            "last_commit": "2026-10-14T14:11:04Z",
+            "open_issues": 261,
             "owner": "simple-login",
             "repo": "app",
-            "stars": 7048,
+            "stars": 7053,
             "topics": [
               "aliases",
               "email",
@@ -428,7 +428,7 @@
             "open_issues": 255,
             "owner": "mailhog",
             "repo": "MailHog",
-            "stars": 16186,
+            "stars": 16185,
             "topics": []
           },
           "first_seen": "2026-08-28T19:31:17.232Z"
@@ -539,7 +539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T12:58:33.990Z",
+    "last_updated": "2026-10-15T12:45:28.560Z",
     "original_repository_info": {
       "archived": false,
       "description": "✉️ An awesome list of resources to build better emails.",
@@ -551,7 +551,7 @@
       "open_issues": 50,
       "owner": "jonathandion",
       "repo": "awesome-emails",
-      "stars": 2761,
+      "stars": 2762,
       "topics": [
         "awesome",
         "email",

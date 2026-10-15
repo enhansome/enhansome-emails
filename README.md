@@ -55,7 +55,7 @@ AWESOME EMAILS ✉ ✨
 * [Mailchimp Email Blueprints](https://github.com/mailchimp/Email-Blueprints) ⭐ 7,021 | 🐛 36 | 📅 2019-10-23 - Email Blueprints is a collection of HTML email templates that can serve as a solid foundation and starting point for the design of emails.
 * [Responsive Transactional HTML Email Templates](https://github.com/mailgun/transactional-email-templates) ⭐ 6,923 | 🐛 12 | 🌐 HTML | 📅 2022-02-03 - Each template is responsive and each has been tested in all the popular email clients.
 * [Cerberus](https://github.com/TedGoas/Cerberus) ⭐ 5,138 | 🐛 13 | 🌐 HTML | 📅 2026-09-14 - Few responsive email patterns.
-* [Email boilerplate](https://github.com/seanpowell/Email-Boilerplate) ⭐ 3,787 | 🐛 22 | 🌐 HTML | 📅 2021-04-28 - The email boilerplate for sending out nicely formatted messages.
+* [Email boilerplate](https://github.com/seanpowell/Email-Boilerplate) ⭐ 3,786 | 🐛 22 | 🌐 HTML | 📅 2021-04-28 - The email boilerplate for sending out nicely formatted messages.
 * [Antwort](https://github.com/internations/antwort) ⭐ 3,559 | 🐛 3 | 🌐 HTML | 📅 2020-09-30 - Antwort offers responsive layouts for Email that both fits and adapts to client widths.
 * [Postmark Transactional Email Templates](https://github.com/wildbit/postmark-templates) ⭐ 3,195 | 🐛 13 | 🌐 HTML | 📅 2023-04-02 - Rock-solid email templates for applications.
 * [Lee Munroe's Grunt Email Design](https://github.com/leemunroe/grunt-email-workflow) ⭐ 3,032 | 🐛 6 | 🌐 SCSS | 📅 2024-05-02 - A Grunt workflow for designing and testing responsive HTML email templates with SCSS.
@@ -75,7 +75,7 @@ AWESOME EMAILS ✉ ✨
 
 ## Tools
 
-* [email-verifier](https://github.com/AfterShip/email-verifier) ⭐ 1,642 | 🐛 27 | 🌐 Go | 📅 2026-10-13 - A tool for email verification without sending any emails.
+* [email-verifier](https://github.com/AfterShip/email-verifier) ⭐ 1,643 | 🐛 27 | 🌐 Go | 📅 2026-10-13 - A tool for email verification without sending any emails.
 * [Can I Email](https://www.caniemail.com/) - Can I email… Support tables for HTML and CSS in emails.
 * [Topol](https://topol.io/) - Create stunning responsive HTML e-mails in a minute.
 * [MJML Desktop App](https://mjmlio.github.io/mjml-app/) - MJML official desktop app.
@@ -98,7 +98,7 @@ AWESOME EMAILS ✉ ✨
 
 ## Services
 
-* [Postal](https://github.com/atech/postal) ⭐ 16,864 | 🐛 95 | 🌐 Ruby | 📅 2026-10-06 - A fully featured open source mail delivery platform for incoming & outgoing e-mail.
+* [Postal](https://github.com/atech/postal) ⭐ 16,863 | 🐛 95 | 🌐 Ruby | 📅 2026-10-06 - A fully featured open source mail delivery platform for incoming & outgoing e-mail.
 * [Resend](https://resend.com/) - Build, test, and send transactional emails at scale.
 * [EmailOctopus](https://emailoctopus.com) - Email marketing made easy.
 * [Mailchimp](https://mailchimp.com/) - MailChimp provides email marketing for more than 15 million people globally.
@@ -121,7 +121,7 @@ AWESOME EMAILS ✉ ✨
 
 ## Self-Hosted Services
 
-* [SimpleLogin](https://github.com/simple-login/app) ⭐ 7,048 | 🐛 262 | 🌐 Python | 📅 2026-10-14 - Self-hosted email alias solution.
+* [SimpleLogin](https://github.com/simple-login/app) ⭐ 7,053 | 🐛 261 | 🌐 Python | 📅 2026-10-14 - Self-hosted email alias solution.
 * [Cloud Seeder](https://ipv6.rs/cloudseeder) - 1-click Install and Upgrade a Postfix+Dovecot or Stalwart mail server instance, hands free.
 * [iRedMail](https://iredmail.org/) - Easy to install open source mail server solution.
 * [Mail-in-a-box](https://mailinabox.email/) - Lets you become your own mail service provider in a few easy steps.
@@ -192,7 +192,7 @@ AWESOME EMAILS ✉ ✨
 
 ## Testing
 
-* [MailHog](https://github.com/mailhog/MailHog) ⭐ 16,186 | 🐛 255 | 🌐 Go | 📅 2024-02-13 A local fake SMTP server (based on Go).
+* [MailHog](https://github.com/mailhog/MailHog) ⭐ 16,185 | 🐛 255 | 🌐 Go | 📅 2024-02-13 A local fake SMTP server (based on Go).
 * [PutsMail](https://putsmail.com/) - Free tool to test your HTML emails before sending them!
 * [Litmus](https://litmus.com/) - Test and track your emails with Litmus.
 * [Campaign Monitor](https://www.campaignmonitor.com/testing/) - Test your design in all the different email client with Campaign Monitor.
@@ -232,4 +232,4 @@ If you want to contribute, please read the [contribution guidelines](https://git
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
