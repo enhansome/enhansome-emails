@@ -61,7 +61,7 @@
             "open_issues": 13,
             "owner": "emailmonday",
             "repo": "Cerberus",
-            "stars": 5138,
+            "stars": 5139,
             "topics": [
               "cerberus",
               "email",
@@ -293,7 +293,7 @@
             "open_issues": 95,
             "owner": "postalserver",
             "repo": "postal",
-            "stars": 16863,
+            "stars": 16865,
             "topics": [
               "mail",
               "mail-server",
@@ -326,7 +326,7 @@
             "open_issues": 261,
             "owner": "simple-login",
             "repo": "app",
-            "stars": 7053,
+            "stars": 7059,
             "topics": [
               "aliases",
               "email",
@@ -386,7 +386,7 @@
             "open_issues": 0,
             "owner": "threeheartsdigital",
             "repo": "email-marketing-regulations",
-            "stars": 470,
+            "stars": 471,
             "topics": [
               "business",
               "can-spam",
@@ -518,7 +518,7 @@
                 "open_issues": 16,
                 "owner": "jonathandion",
                 "repo": "mono",
-                "stars": 28,
+                "stars": 29,
                 "topics": [
                   "jdion",
                   "jonathandion",
@@ -539,7 +539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T12:45:28.560Z",
+    "last_updated": "2026-10-16T12:37:53.931Z",
     "original_repository_info": {
       "archived": false,
       "description": "✉️ An awesome list of resources to build better emails.",
@@ -548,10 +548,10 @@
       "language": null,
       "license": null,
       "last_commit": "2024-10-03T21:09:35Z",
-      "open_issues": 50,
+      "open_issues": 51,
       "owner": "jonathandion",
       "repo": "awesome-emails",
-      "stars": 2762,
+      "stars": 2763,
       "topics": [
         "awesome",
         "email",
