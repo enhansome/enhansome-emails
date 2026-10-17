@@ -61,7 +61,7 @@
             "open_issues": 13,
             "owner": "emailmonday",
             "repo": "Cerberus",
-            "stars": 5139,
+            "stars": 5138,
             "topics": [
               "cerberus",
               "email",
@@ -258,7 +258,7 @@
             "open_issues": 27,
             "owner": "AfterShip",
             "repo": "email-verifier",
-            "stars": 1643,
+            "stars": 1644,
             "topics": [
               "disposable",
               "email",
@@ -293,7 +293,7 @@
             "open_issues": 95,
             "owner": "postalserver",
             "repo": "postal",
-            "stars": 16865,
+            "stars": 16871,
             "topics": [
               "mail",
               "mail-server",
@@ -326,7 +326,7 @@
             "open_issues": 261,
             "owner": "simple-login",
             "repo": "app",
-            "stars": 7059,
+            "stars": 7060,
             "topics": [
               "aliases",
               "email",
@@ -428,7 +428,7 @@
             "open_issues": 255,
             "owner": "mailhog",
             "repo": "MailHog",
-            "stars": 16185,
+            "stars": 16186,
             "topics": []
           },
           "first_seen": "2026-08-28T19:31:17.232Z"
@@ -514,7 +514,7 @@
                 "id": 607325717,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-13T19:31:39Z",
+                "last_commit": "2026-10-16T14:49:51Z",
                 "open_issues": 16,
                 "owner": "jonathandion",
                 "repo": "mono",
@@ -539,7 +539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T12:37:53.931Z",
+    "last_updated": "2026-10-17T11:42:20.359Z",
     "original_repository_info": {
       "archived": false,
       "description": "✉️ An awesome list of resources to build better emails.",
@@ -551,7 +551,7 @@
       "open_issues": 51,
       "owner": "jonathandion",
       "repo": "awesome-emails",
-      "stars": 2763,
+      "stars": 2762,
       "topics": [
         "awesome",
         "email",
