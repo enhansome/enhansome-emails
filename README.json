@@ -133,7 +133,7 @@
             "open_issues": 13,
             "owner": "ActiveCampaign",
             "repo": "postmark-templates",
-            "stars": 3194,
+            "stars": 3195,
             "topics": []
           },
           "first_seen": "2026-08-28T19:31:17.232Z"
@@ -154,7 +154,7 @@
             "open_issues": 6,
             "owner": "leemunroe",
             "repo": "grunt-email-workflow",
-            "stars": 3032,
+            "stars": 3033,
             "topics": [
               "css",
               "email",
@@ -293,7 +293,7 @@
             "open_issues": 95,
             "owner": "postalserver",
             "repo": "postal",
-            "stars": 16872,
+            "stars": 16875,
             "topics": [
               "mail",
               "mail-server",
@@ -326,7 +326,7 @@
             "open_issues": 261,
             "owner": "simple-login",
             "repo": "app",
-            "stars": 7060,
+            "stars": 7063,
             "topics": [
               "aliases",
               "email",
@@ -428,7 +428,7 @@
             "open_issues": 255,
             "owner": "mailhog",
             "repo": "MailHog",
-            "stars": 16188,
+            "stars": 16189,
             "topics": []
           },
           "first_seen": "2026-08-28T19:31:17.232Z"
@@ -539,7 +539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T12:08:16.152Z",
+    "last_updated": "2026-10-19T14:50:47.943Z",
     "original_repository_info": {
       "archived": false,
       "description": "✉️ An awesome list of resources to build better emails.",
