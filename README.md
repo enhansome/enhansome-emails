@@ -39,7 +39,7 @@ AWESOME EMAILS ✉ ✨
 ### Misc
 
 * [MJML](https://mjml.io) - MJML is a markup language designed to reduce the pain of coding a responsive email.
-* [Foundation for Emails](https://github.com/zurb/foundation-emails) ⭐ 7,791 | 🐛 3 | 🌐 HTML | 📅 2026-03-13 - Quickly create responsive HTML emails that work on any device & client. Even Outlook.
+* [Foundation for Emails](https://github.com/zurb/foundation-emails) ⭐ 7,789 | 🐛 3 | 🌐 HTML | 📅 2026-03-13 - Quickly create responsive HTML emails that work on any device & client. Even Outlook.
 * [Email Framework](http://emailframe.work/) - The HTML email framework developed to help you build responsive HTML email.
 * [HEML](https://heml.io) - HEML is an open source markup language for building responsive email.
 * [Acorn](https://docs.thememountain.com/acorn/) - A responsive email framework based on a golden ratio typography grid.
@@ -52,13 +52,13 @@ AWESOME EMAILS ✉ ✨
 
 ## Templates
 
-* [Mailchimp Email Blueprints](https://github.com/mailchimp/Email-Blueprints) ⭐ 7,020 | 🐛 36 | 📅 2019-10-23 - Email Blueprints is a collection of HTML email templates that can serve as a solid foundation and starting point for the design of emails.
+* [Mailchimp Email Blueprints](https://github.com/mailchimp/Email-Blueprints) ⭐ 7,019 | 🐛 36 | 📅 2019-10-23 - Email Blueprints is a collection of HTML email templates that can serve as a solid foundation and starting point for the design of emails.
 * [Responsive Transactional HTML Email Templates](https://github.com/mailgun/transactional-email-templates) ⭐ 6,924 | 🐛 12 | 🌐 HTML | 📅 2022-02-03 - Each template is responsive and each has been tested in all the popular email clients.
-* [Cerberus](https://github.com/TedGoas/Cerberus) ⭐ 5,139 | 🐛 13 | 🌐 HTML | 📅 2026-09-14 - Few responsive email patterns.
-* [Email boilerplate](https://github.com/seanpowell/Email-Boilerplate) ⭐ 3,785 | 🐛 22 | 🌐 HTML | 📅 2021-04-28 - The email boilerplate for sending out nicely formatted messages.
-* [Antwort](https://github.com/internations/antwort) ⭐ 3,559 | 🐛 3 | 🌐 HTML | 📅 2020-09-30 - Antwort offers responsive layouts for Email that both fits and adapts to client widths.
+* [Cerberus](https://github.com/TedGoas/Cerberus) ⭐ 5,138 | 🐛 13 | 🌐 HTML | 📅 2026-09-14 - Few responsive email patterns.
+* [Email boilerplate](https://github.com/seanpowell/Email-Boilerplate) ⭐ 3,784 | 🐛 22 | 🌐 HTML | 📅 2021-04-28 - The email boilerplate for sending out nicely formatted messages.
+* [Antwort](https://github.com/internations/antwort) ⭐ 3,558 | 🐛 3 | 🌐 HTML | 📅 2020-09-30 - Antwort offers responsive layouts for Email that both fits and adapts to client widths.
 * [Postmark Transactional Email Templates](https://github.com/wildbit/postmark-templates) ⭐ 3,195 | 🐛 13 | 🌐 HTML | 📅 2023-04-02 - Rock-solid email templates for applications.
-* [Lee Munroe's Grunt Email Design](https://github.com/leemunroe/grunt-email-workflow) ⭐ 3,034 | 🐛 6 | 🌐 SCSS | 📅 2024-05-02 - A Grunt workflow for designing and testing responsive HTML email templates with SCSS.
+* [Lee Munroe's Grunt Email Design](https://github.com/leemunroe/grunt-email-workflow) ⭐ 3,033 | 🐛 6 | 🌐 SCSS | 📅 2024-05-02 - A Grunt workflow for designing and testing responsive HTML email templates with SCSS.
 * [Responsive HTML Template](https://github.com/charlesmudy/responsive-html-email-template) ⭐ 685 | 🐛 3 | 🌐 HTML | 📅 2022-03-31 - This template is designed to work on all major email platforms and it is built with media query, making it responsive for smartphones that supports media query.
 * [Campaign](https://github.com/bevacqua/campaign) ⭐ 643 | 🐛 1 | 🌐 JavaScript | 📅 2024-03-16 - Compose responsive email templates easily, fill them with models, and send them out.
 * [Grunt Email Boilerplate](https://github.com/dwightjack/grunt-email-boilerplate) ⚠️ Archived - A Grunt template to create emails.
@@ -98,7 +98,7 @@ AWESOME EMAILS ✉ ✨
 
 ## Services
 
-* [Postal](https://github.com/atech/postal) ⭐ 16,879 | 🐛 96 | 🌐 Ruby | 📅 2026-10-20 - A fully featured open source mail delivery platform for incoming & outgoing e-mail.
+* [Postal](https://github.com/atech/postal) ⭐ 16,880 | 🐛 96 | 🌐 Ruby | 📅 2026-10-20 - A fully featured open source mail delivery platform for incoming & outgoing e-mail.
 * [Resend](https://resend.com/) - Build, test, and send transactional emails at scale.
 * [EmailOctopus](https://emailoctopus.com) - Email marketing made easy.
 * [Mailchimp](https://mailchimp.com/) - MailChimp provides email marketing for more than 15 million people globally.
@@ -121,7 +121,7 @@ AWESOME EMAILS ✉ ✨
 
 ## Self-Hosted Services
 
-* [SimpleLogin](https://github.com/simple-login/app) ⭐ 7,068 | 🐛 263 | 🌐 Python | 📅 2026-10-21 - Self-hosted email alias solution.
+* [SimpleLogin](https://github.com/simple-login/app) ⭐ 7,070 | 🐛 263 | 🌐 Python | 📅 2026-10-22 - Self-hosted email alias solution.
 * [Cloud Seeder](https://ipv6.rs/cloudseeder) - 1-click Install and Upgrade a Postfix+Dovecot or Stalwart mail server instance, hands free.
 * [iRedMail](https://iredmail.org/) - Easy to install open source mail server solution.
 * [Mail-in-a-box](https://mailinabox.email/) - Lets you become your own mail service provider in a few easy steps.
@@ -133,7 +133,7 @@ AWESOME EMAILS ✉ ✨
 
 ## Articles
 
-* [Darylldoyle Gulp workflow](https://github.com/darylldoyle/Gulp-Email-Creator) ⭐ 165 | 🐛 3 | 🌐 JavaScript | 📅 2017-07-13 - Gulp Email Creator is a gulp workflow inspired by Lee Munroe's grunt-email-design workflow.
+* [Darylldoyle Gulp workflow](https://github.com/darylldoyle/Gulp-Email-Creator) ⭐ 164 | 🐛 3 | 🌐 JavaScript | 📅 2017-07-13 - Gulp Email Creator is a gulp workflow inspired by Lee Munroe's grunt-email-design workflow.
 * [My Wonderful HTML Email Workflow](https://www.joshwcomeau.com/react/wonderful-emails-with-mjml-and-mdx/) - My Wonderful HTML Email Workflow, using MJML and MDX for responsive emails.
 * [Email Design Workflow](http://www.leemunroe.com/email-design-workflow/) - An email design workflow by By Lee Munroe.
 * [Composing better emails](https://iridakos.com/how-to/2019/06/26/composing-better-emails.html) - Tips for writing effective emails.
@@ -192,7 +192,7 @@ AWESOME EMAILS ✉ ✨
 
 ## Testing
 
-* [MailHog](https://github.com/mailhog/MailHog) ⭐ 16,191 | 🐛 255 | 🌐 Go | 📅 2024-02-13 A local fake SMTP server (based on Go).
+* [MailHog](https://github.com/mailhog/MailHog) ⭐ 16,195 | 🐛 255 | 🌐 Go | 📅 2024-02-13 A local fake SMTP server (based on Go).
 * [PutsMail](https://putsmail.com/) - Free tool to test your HTML emails before sending them!
 * [Litmus](https://litmus.com/) - Test and track your emails with Litmus.
 * [Campaign Monitor](https://www.campaignmonitor.com/testing/) - Test your design in all the different email client with Campaign Monitor.
@@ -224,7 +224,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 
 * [Awesome JS Books](https://github.com/jonathandion/awesome-js-books) ⭐ 71 | 🐛 1 | 📅 2019-06-18 - This is a curated list of all the best JavaScript books.
 * [My Neovim Config](https://github.com/jonathandion/web-dev.nvim) ⭐ 66 | 🐛 1 | 🌐 Lua | 📅 2023-03-08 - Small Neovim configuration written in Lua that is specifically designed for web development.
-* [Web Configs](https://github.com/jonathandion/web-configs) ⭐ 29 | 🐛 16 | 🌐 TypeScript | 📅 2026-10-21 - Monorepo for all common configurations for building web apps.
+* [Web Configs](https://github.com/jonathandion/web-configs) ⭐ 29 | 🐛 16 | 🌐 TypeScript | 📅 2026-10-22 - Monorepo for all common configurations for building web apps.
 
 ### License
 
@@ -232,4 +232,4 @@ If you want to contribute, please read the [contribution guidelines](https://git
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
