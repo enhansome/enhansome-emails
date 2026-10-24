@@ -40,7 +40,7 @@
             "open_issues": 12,
             "owner": "mailgun",
             "repo": "transactional-email-templates",
-            "stars": 6923,
+            "stars": 6922,
             "topics": []
           },
           "first_seen": "2026-08-28T19:31:17.232Z"
@@ -112,7 +112,7 @@
             "open_issues": 3,
             "owner": "InterNations",
             "repo": "antwort",
-            "stars": 3558,
+            "stars": 3556,
             "topics": []
           },
           "first_seen": "2026-08-28T19:31:17.232Z"
@@ -293,7 +293,7 @@
             "open_issues": 96,
             "owner": "postalserver",
             "repo": "postal",
-            "stars": 16886,
+            "stars": 16889,
             "topics": [
               "mail",
               "mail-server",
@@ -323,10 +323,10 @@
             "language": "Python",
             "license": "AGPL-3.0",
             "last_commit": "2026-10-22T15:42:13Z",
-            "open_issues": 262,
+            "open_issues": 263,
             "owner": "simple-login",
             "repo": "app",
-            "stars": 7071,
+            "stars": 7073,
             "topics": [
               "aliases",
               "email",
@@ -428,7 +428,7 @@
             "open_issues": 255,
             "owner": "mailhog",
             "repo": "MailHog",
-            "stars": 16192,
+            "stars": 16191,
             "topics": []
           },
           "first_seen": "2026-08-28T19:31:17.232Z"
@@ -514,7 +514,7 @@
                 "id": 607325717,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-22T22:01:53Z",
+                "last_commit": "2026-10-23T18:44:18Z",
                 "open_issues": 16,
                 "owner": "jonathandion",
                 "repo": "mono",
@@ -539,7 +539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T12:44:31.499Z",
+    "last_updated": "2026-10-24T12:08:42.644Z",
     "original_repository_info": {
       "archived": false,
       "description": "✉️ An awesome list of resources to build better emails.",
