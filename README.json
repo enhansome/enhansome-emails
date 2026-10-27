@@ -40,7 +40,7 @@
             "open_issues": 12,
             "owner": "mailgun",
             "repo": "transactional-email-templates",
-            "stars": 6922,
+            "stars": 6921,
             "topics": []
           },
           "first_seen": "2026-08-28T19:31:17.232Z"
@@ -258,7 +258,7 @@
             "open_issues": 27,
             "owner": "AfterShip",
             "repo": "email-verifier",
-            "stars": 1647,
+            "stars": 1649,
             "topics": [
               "disposable",
               "email",
@@ -293,7 +293,7 @@
             "open_issues": 96,
             "owner": "postalserver",
             "repo": "postal",
-            "stars": 16891,
+            "stars": 16897,
             "topics": [
               "mail",
               "mail-server",
@@ -322,11 +322,11 @@
             "id": 228877522,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-22T15:42:13Z",
+            "last_commit": "2026-10-27T12:46:28Z",
             "open_issues": 263,
             "owner": "simple-login",
             "repo": "app",
-            "stars": 7079,
+            "stars": 7095,
             "topics": [
               "aliases",
               "email",
@@ -428,7 +428,7 @@
             "open_issues": 255,
             "owner": "mailhog",
             "repo": "MailHog",
-            "stars": 16195,
+            "stars": 16198,
             "topics": []
           },
           "first_seen": "2026-08-28T19:31:17.232Z"
@@ -457,7 +457,7 @@
                 "open_issues": 1,
                 "owner": "jonathandion",
                 "repo": "awesome-js-books",
-                "stars": 71,
+                "stars": 72,
                 "topics": [
                   "awesome",
                   "books",
@@ -514,7 +514,7 @@
                 "id": 607325717,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-23T18:44:18Z",
+                "last_commit": "2026-10-27T01:35:49Z",
                 "open_issues": 16,
                 "owner": "jonathandion",
                 "repo": "mono",
@@ -539,7 +539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T12:41:04.775Z",
+    "last_updated": "2026-10-27T13:28:07.024Z",
     "original_repository_info": {
       "archived": false,
       "description": "✉️ An awesome list of resources to build better emails.",
@@ -548,10 +548,10 @@
       "language": null,
       "license": null,
       "last_commit": "2024-10-03T21:09:35Z",
-      "open_issues": 51,
+      "open_issues": 52,
       "owner": "jonathandion",
       "repo": "awesome-emails",
-      "stars": 2763,
+      "stars": 2765,
       "topics": [
         "awesome",
         "email",
