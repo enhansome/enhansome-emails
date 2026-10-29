@@ -19,7 +19,7 @@
             "open_issues": 36,
             "owner": "mailchimp",
             "repo": "email-blueprints",
-            "stars": 7022,
+            "stars": 7021,
             "topics": []
           },
           "first_seen": "2026-08-28T19:31:17.232Z"
@@ -61,7 +61,7 @@
             "open_issues": 13,
             "owner": "emailmonday",
             "repo": "Cerberus",
-            "stars": 5140,
+            "stars": 5139,
             "topics": [
               "cerberus",
               "email",
@@ -293,7 +293,7 @@
             "open_issues": 96,
             "owner": "postalserver",
             "repo": "postal",
-            "stars": 16899,
+            "stars": 16900,
             "topics": [
               "mail",
               "mail-server",
@@ -322,11 +322,11 @@
             "id": 228877522,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-28T11:15:04Z",
-            "open_issues": 263,
+            "last_commit": "2026-10-29T12:24:36Z",
+            "open_issues": 265,
             "owner": "simple-login",
             "repo": "app",
-            "stars": 7096,
+            "stars": 7099,
             "topics": [
               "aliases",
               "email",
@@ -514,7 +514,7 @@
                 "id": 607325717,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-28T06:40:34Z",
+                "last_commit": "2026-10-28T17:55:34Z",
                 "open_issues": 16,
                 "owner": "jonathandion",
                 "repo": "mono",
@@ -539,7 +539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T14:16:10.905Z",
+    "last_updated": "2026-10-29T14:33:38.967Z",
     "original_repository_info": {
       "archived": false,
       "description": "✉️ An awesome list of resources to build better emails.",
@@ -548,10 +548,10 @@
       "language": null,
       "license": null,
       "last_commit": "2024-10-03T21:09:35Z",
-      "open_issues": 52,
+      "open_issues": 53,
       "owner": "jonathandion",
       "repo": "awesome-emails",
-      "stars": 2767,
+      "stars": 2766,
       "topics": [
         "awesome",
         "email",
