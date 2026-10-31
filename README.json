@@ -258,7 +258,7 @@
             "open_issues": 27,
             "owner": "AfterShip",
             "repo": "email-verifier",
-            "stars": 1649,
+            "stars": 1650,
             "topics": [
               "disposable",
               "email",
@@ -293,7 +293,7 @@
             "open_issues": 95,
             "owner": "postalserver",
             "repo": "postal",
-            "stars": 16904,
+            "stars": 16911,
             "topics": [
               "mail",
               "mail-server",
@@ -326,7 +326,7 @@
             "open_issues": 265,
             "owner": "simple-login",
             "repo": "app",
-            "stars": 7101,
+            "stars": 7105,
             "topics": [
               "aliases",
               "email",
@@ -514,7 +514,7 @@
                 "id": 607325717,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-29T17:15:35Z",
+                "last_commit": "2026-10-31T05:05:59Z",
                 "open_issues": 16,
                 "owner": "jonathandion",
                 "repo": "mono",
@@ -539,7 +539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T14:25:29.438Z",
+    "last_updated": "2026-10-31T13:46:29.955Z",
     "original_repository_info": {
       "archived": false,
       "description": "✉️ An awesome list of resources to build better emails.",
@@ -548,7 +548,7 @@
       "language": null,
       "license": null,
       "last_commit": "2024-10-03T21:09:35Z",
-      "open_issues": 54,
+      "open_issues": 55,
       "owner": "jonathandion",
       "repo": "awesome-emails",
       "stars": 2768,

@@ -75,7 +75,7 @@ AWESOME EMAILS ✉ ✨
 
 ## Tools
 
-* [email-verifier](https://github.com/AfterShip/email-verifier) ⭐ 1,649 | 🐛 27 | 🌐 Go | 📅 2026-10-13 - A tool for email verification without sending any emails.
+* [email-verifier](https://github.com/AfterShip/email-verifier) ⭐ 1,650 | 🐛 27 | 🌐 Go | 📅 2026-10-13 - A tool for email verification without sending any emails.
 * [Can I Email](https://www.caniemail.com/) - Can I email… Support tables for HTML and CSS in emails.
 * [Topol](https://topol.io/) - Create stunning responsive HTML e-mails in a minute.
 * [MJML Desktop App](https://mjmlio.github.io/mjml-app/) - MJML official desktop app.
@@ -98,7 +98,7 @@ AWESOME EMAILS ✉ ✨
 
 ## Services
 
-* [Postal](https://github.com/atech/postal) ⭐ 16,904 | 🐛 95 | 🌐 Ruby | 📅 2026-10-30 - A fully featured open source mail delivery platform for incoming & outgoing e-mail.
+* [Postal](https://github.com/atech/postal) ⭐ 16,911 | 🐛 95 | 🌐 Ruby | 📅 2026-10-30 - A fully featured open source mail delivery platform for incoming & outgoing e-mail.
 * [Resend](https://resend.com/) - Build, test, and send transactional emails at scale.
 * [EmailOctopus](https://emailoctopus.com) - Email marketing made easy.
 * [Mailchimp](https://mailchimp.com/) - MailChimp provides email marketing for more than 15 million people globally.
@@ -121,7 +121,7 @@ AWESOME EMAILS ✉ ✨
 
 ## Self-Hosted Services
 
-* [SimpleLogin](https://github.com/simple-login/app) ⭐ 7,101 | 🐛 265 | 🌐 Python | 📅 2026-10-30 - Self-hosted email alias solution.
+* [SimpleLogin](https://github.com/simple-login/app) ⭐ 7,105 | 🐛 265 | 🌐 Python | 📅 2026-10-30 - Self-hosted email alias solution.
 * [Cloud Seeder](https://ipv6.rs/cloudseeder) - 1-click Install and Upgrade a Postfix+Dovecot or Stalwart mail server instance, hands free.
 * [iRedMail](https://iredmail.org/) - Easy to install open source mail server solution.
 * [Mail-in-a-box](https://mailinabox.email/) - Lets you become your own mail service provider in a few easy steps.
@@ -224,7 +224,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 
 * [Awesome JS Books](https://github.com/jonathandion/awesome-js-books) ⭐ 72 | 🐛 1 | 📅 2019-06-18 - This is a curated list of all the best JavaScript books.
 * [My Neovim Config](https://github.com/jonathandion/web-dev.nvim) ⭐ 66 | 🐛 1 | 🌐 Lua | 📅 2023-03-08 - Small Neovim configuration written in Lua that is specifically designed for web development.
-* [Web Configs](https://github.com/jonathandion/web-configs) ⭐ 29 | 🐛 16 | 🌐 TypeScript | 📅 2026-10-29 - Monorepo for all common configurations for building web apps.
+* [Web Configs](https://github.com/jonathandion/web-configs) ⭐ 29 | 🐛 16 | 🌐 TypeScript | 📅 2026-10-31 - Monorepo for all common configurations for building web apps.
 
 ### License
 
@@ -232,4 +232,4 @@ If you want to contribute, please read the [contribution guidelines](https://git
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
