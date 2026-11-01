@@ -19,7 +19,7 @@
             "open_issues": 36,
             "owner": "mailchimp",
             "repo": "email-blueprints",
-            "stars": 7020,
+            "stars": 7021,
             "topics": []
           },
           "first_seen": "2026-08-28T19:31:17.232Z"
@@ -40,7 +40,7 @@
             "open_issues": 12,
             "owner": "mailgun",
             "repo": "transactional-email-templates",
-            "stars": 6921,
+            "stars": 6920,
             "topics": []
           },
           "first_seen": "2026-08-28T19:31:17.232Z"
@@ -61,7 +61,7 @@
             "open_issues": 13,
             "owner": "emailmonday",
             "repo": "Cerberus",
-            "stars": 5139,
+            "stars": 5140,
             "topics": [
               "cerberus",
               "email",
@@ -91,7 +91,7 @@
             "open_issues": 22,
             "owner": "seanpowell",
             "repo": "Email-Boilerplate",
-            "stars": 3784,
+            "stars": 3783,
             "topics": []
           },
           "first_seen": "2026-08-28T19:31:17.232Z"
@@ -133,7 +133,7 @@
             "open_issues": 13,
             "owner": "ActiveCampaign",
             "repo": "postmark-templates",
-            "stars": 3195,
+            "stars": 3193,
             "topics": []
           },
           "first_seen": "2026-08-28T19:31:17.232Z"
@@ -293,7 +293,7 @@
             "open_issues": 95,
             "owner": "postalserver",
             "repo": "postal",
-            "stars": 16911,
+            "stars": 16912,
             "topics": [
               "mail",
               "mail-server",
@@ -323,10 +323,10 @@
             "language": "Python",
             "license": "AGPL-3.0",
             "last_commit": "2026-10-30T10:08:13Z",
-            "open_issues": 265,
+            "open_issues": 267,
             "owner": "simple-login",
             "repo": "app",
-            "stars": 7105,
+            "stars": 7109,
             "topics": [
               "aliases",
               "email",
@@ -428,7 +428,7 @@
             "open_issues": 255,
             "owner": "mailhog",
             "repo": "MailHog",
-            "stars": 16198,
+            "stars": 16197,
             "topics": []
           },
           "first_seen": "2026-08-28T19:31:17.232Z"
@@ -539,7 +539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T13:46:29.955Z",
+    "last_updated": "2026-11-01T14:24:45.066Z",
     "original_repository_info": {
       "archived": false,
       "description": "✉️ An awesome list of resources to build better emails.",
