@@ -290,10 +290,10 @@
             "language": "Ruby",
             "license": "MIT",
             "last_commit": "2026-10-30T01:36:30Z",
-            "open_issues": 96,
+            "open_issues": 95,
             "owner": "postalserver",
             "repo": "postal",
-            "stars": 16917,
+            "stars": 16918,
             "topics": [
               "mail",
               "mail-server",
@@ -322,11 +322,11 @@
             "id": 228877522,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-30T10:08:13Z",
+            "last_commit": "2026-11-03T13:10:04Z",
             "open_issues": 267,
             "owner": "simple-login",
             "repo": "app",
-            "stars": 7112,
+            "stars": 7113,
             "topics": [
               "aliases",
               "email",
@@ -428,7 +428,7 @@
             "open_issues": 255,
             "owner": "mailhog",
             "repo": "MailHog",
-            "stars": 16197,
+            "stars": 16198,
             "topics": []
           },
           "first_seen": "2026-08-28T19:31:17.232Z"
@@ -514,7 +514,7 @@
                 "id": 607325717,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-02T13:41:26Z",
+                "last_commit": "2026-11-03T09:30:02Z",
                 "open_issues": 16,
                 "owner": "jonathandion",
                 "repo": "mono",
@@ -539,7 +539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T17:19:05.384Z",
+    "last_updated": "2026-11-03T15:24:10.414Z",
     "original_repository_info": {
       "archived": false,
       "description": "✉️ An awesome list of resources to build better emails.",
@@ -548,7 +548,7 @@
       "language": null,
       "license": null,
       "last_commit": "2024-10-03T21:09:35Z",
-      "open_issues": 55,
+      "open_issues": 56,
       "owner": "jonathandion",
       "repo": "awesome-emails",
       "stars": 2770,
