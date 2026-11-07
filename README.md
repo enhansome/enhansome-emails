@@ -55,7 +55,7 @@ AWESOME EMAILS ✉ ✨
 * [Mailchimp Email Blueprints](https://github.com/mailchimp/Email-Blueprints) ⭐ 7,021 | 🐛 36 | 📅 2019-10-23 - Email Blueprints is a collection of HTML email templates that can serve as a solid foundation and starting point for the design of emails.
 * [Responsive Transactional HTML Email Templates](https://github.com/mailgun/transactional-email-templates) ⭐ 6,918 | 🐛 12 | 🌐 HTML | 📅 2022-02-03 - Each template is responsive and each has been tested in all the popular email clients.
 * [Cerberus](https://github.com/TedGoas/Cerberus) ⭐ 5,143 | 🐛 13 | 🌐 HTML | 📅 2026-09-14 - Few responsive email patterns.
-* [Email boilerplate](https://github.com/seanpowell/Email-Boilerplate) ⭐ 3,783 | 🐛 22 | 🌐 HTML | 📅 2021-04-28 - The email boilerplate for sending out nicely formatted messages.
+* [Email boilerplate](https://github.com/seanpowell/Email-Boilerplate) ⭐ 3,782 | 🐛 22 | 🌐 HTML | 📅 2021-04-28 - The email boilerplate for sending out nicely formatted messages.
 * [Antwort](https://github.com/internations/antwort) ⭐ 3,556 | 🐛 3 | 🌐 HTML | 📅 2020-09-30 - Antwort offers responsive layouts for Email that both fits and adapts to client widths.
 * [Postmark Transactional Email Templates](https://github.com/wildbit/postmark-templates) ⭐ 3,192 | 🐛 13 | 🌐 HTML | 📅 2023-04-02 - Rock-solid email templates for applications.
 * [Lee Munroe's Grunt Email Design](https://github.com/leemunroe/grunt-email-workflow) ⭐ 3,031 | 🐛 6 | 🌐 SCSS | 📅 2024-05-02 - A Grunt workflow for designing and testing responsive HTML email templates with SCSS.
@@ -75,7 +75,7 @@ AWESOME EMAILS ✉ ✨
 
 ## Tools
 
-* [email-verifier](https://github.com/AfterShip/email-verifier) ⭐ 1,653 | 🐛 28 | 🌐 Go | 📅 2026-11-02 - A tool for email verification without sending any emails.
+* [email-verifier](https://github.com/AfterShip/email-verifier) ⭐ 1,654 | 🐛 28 | 🌐 Go | 📅 2026-11-02 - A tool for email verification without sending any emails.
 * [Can I Email](https://www.caniemail.com/) - Can I email… Support tables for HTML and CSS in emails.
 * [Topol](https://topol.io/) - Create stunning responsive HTML e-mails in a minute.
 * [MJML Desktop App](https://mjmlio.github.io/mjml-app/) - MJML official desktop app.
@@ -98,7 +98,7 @@ AWESOME EMAILS ✉ ✨
 
 ## Services
 
-* [Postal](https://github.com/atech/postal) ⭐ 16,927 | 🐛 97 | 🌐 Ruby | 📅 2026-11-04 - A fully featured open source mail delivery platform for incoming & outgoing e-mail.
+* [Postal](https://github.com/atech/postal) ⭐ 16,930 | 🐛 97 | 🌐 Ruby | 📅 2026-11-04 - A fully featured open source mail delivery platform for incoming & outgoing e-mail.
 * [Resend](https://resend.com/) - Build, test, and send transactional emails at scale.
 * [EmailOctopus](https://emailoctopus.com) - Email marketing made easy.
 * [Mailchimp](https://mailchimp.com/) - MailChimp provides email marketing for more than 15 million people globally.
@@ -121,7 +121,7 @@ AWESOME EMAILS ✉ ✨
 
 ## Self-Hosted Services
 
-* [SimpleLogin](https://github.com/simple-login/app) ⭐ 7,119 | 🐛 267 | 🌐 Python | 📅 2026-11-06 - Self-hosted email alias solution.
+* [SimpleLogin](https://github.com/simple-login/app) ⭐ 7,119 | 🐛 268 | 🌐 Python | 📅 2026-11-06 - Self-hosted email alias solution.
 * [Cloud Seeder](https://ipv6.rs/cloudseeder) - 1-click Install and Upgrade a Postfix+Dovecot or Stalwart mail server instance, hands free.
 * [iRedMail](https://iredmail.org/) - Easy to install open source mail server solution.
 * [Mail-in-a-box](https://mailinabox.email/) - Lets you become your own mail service provider in a few easy steps.
@@ -224,7 +224,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 
 * [Awesome JS Books](https://github.com/jonathandion/awesome-js-books) ⭐ 72 | 🐛 1 | 📅 2019-06-18 - This is a curated list of all the best JavaScript books.
 * [My Neovim Config](https://github.com/jonathandion/web-dev.nvim) ⭐ 66 | 🐛 1 | 🌐 Lua | 📅 2023-03-08 - Small Neovim configuration written in Lua that is specifically designed for web development.
-* [Web Configs](https://github.com/jonathandion/web-configs) ⭐ 29 | 🐛 16 | 🌐 TypeScript | 📅 2026-11-05 - Monorepo for all common configurations for building web apps.
+* [Web Configs](https://github.com/jonathandion/web-configs) ⭐ 29 | 🐛 16 | 🌐 TypeScript | 📅 2026-11-07 - Monorepo for all common configurations for building web apps.
 
 ### License
 
@@ -232,4 +232,4 @@ If you want to contribute, please read the [contribution guidelines](https://git
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
