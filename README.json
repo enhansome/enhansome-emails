@@ -19,7 +19,7 @@
             "open_issues": 36,
             "owner": "mailchimp",
             "repo": "email-blueprints",
-            "stars": 7021,
+            "stars": 7022,
             "topics": []
           },
           "first_seen": "2026-08-28T19:31:17.232Z"
@@ -293,7 +293,7 @@
             "open_issues": 97,
             "owner": "postalserver",
             "repo": "postal",
-            "stars": 16930,
+            "stars": 16935,
             "topics": [
               "mail",
               "mail-server",
@@ -323,10 +323,10 @@
             "language": "Python",
             "license": "AGPL-3.0",
             "last_commit": "2026-11-06T16:48:52Z",
-            "open_issues": 268,
+            "open_issues": 269,
             "owner": "simple-login",
             "repo": "app",
-            "stars": 7119,
+            "stars": 7124,
             "topics": [
               "aliases",
               "email",
@@ -386,7 +386,7 @@
             "open_issues": 0,
             "owner": "threeheartsdigital",
             "repo": "email-marketing-regulations",
-            "stars": 471,
+            "stars": 472,
             "topics": [
               "business",
               "can-spam",
@@ -428,7 +428,7 @@
             "open_issues": 255,
             "owner": "mailhog",
             "repo": "MailHog",
-            "stars": 16204,
+            "stars": 16205,
             "topics": []
           },
           "first_seen": "2026-08-28T19:31:17.232Z"
@@ -539,7 +539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T14:15:50.294Z",
+    "last_updated": "2026-11-08T14:24:30.362Z",
     "original_repository_info": {
       "archived": false,
       "description": "✉️ An awesome list of resources to build better emails.",
