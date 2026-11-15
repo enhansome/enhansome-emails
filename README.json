@@ -293,7 +293,7 @@
             "open_issues": 103,
             "owner": "postalserver",
             "repo": "postal",
-            "stars": 16956,
+            "stars": 16958,
             "topics": [
               "mail",
               "mail-server",
@@ -326,7 +326,7 @@
             "open_issues": 270,
             "owner": "simple-login",
             "repo": "app",
-            "stars": 7142,
+            "stars": 7145,
             "topics": [
               "aliases",
               "email",
@@ -428,7 +428,7 @@
             "open_issues": 255,
             "owner": "mailhog",
             "repo": "MailHog",
-            "stars": 16207,
+            "stars": 16208,
             "topics": []
           },
           "first_seen": "2026-08-28T19:31:17.232Z"
@@ -514,7 +514,7 @@
                 "id": 607325717,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-14T04:06:51Z",
+                "last_commit": "2026-11-14T17:50:44Z",
                 "open_issues": 16,
                 "owner": "jonathandion",
                 "repo": "mono",
@@ -539,7 +539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T14:23:40.543Z",
+    "last_updated": "2026-11-15T14:54:23.347Z",
     "original_repository_info": {
       "archived": false,
       "description": "✉️ An awesome list of resources to build better emails.",
@@ -548,7 +548,7 @@
       "language": null,
       "license": null,
       "last_commit": "2024-10-03T21:09:35Z",
-      "open_issues": 57,
+      "open_issues": 58,
       "owner": "jonathandion",
       "repo": "awesome-emails",
       "stars": 2772,

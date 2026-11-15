@@ -98,7 +98,7 @@ AWESOME EMAILS ✉ ✨
 
 ## Services
 
-* [Postal](https://github.com/atech/postal) ⭐ 16,956 | 🐛 103 | 🌐 Ruby | 📅 2026-11-14 - A fully featured open source mail delivery platform for incoming & outgoing e-mail.
+* [Postal](https://github.com/atech/postal) ⭐ 16,958 | 🐛 103 | 🌐 Ruby | 📅 2026-11-14 - A fully featured open source mail delivery platform for incoming & outgoing e-mail.
 * [Resend](https://resend.com/) - Build, test, and send transactional emails at scale.
 * [EmailOctopus](https://emailoctopus.com) - Email marketing made easy.
 * [Mailchimp](https://mailchimp.com/) - MailChimp provides email marketing for more than 15 million people globally.
@@ -121,7 +121,7 @@ AWESOME EMAILS ✉ ✨
 
 ## Self-Hosted Services
 
-* [SimpleLogin](https://github.com/simple-login/app) ⭐ 7,142 | 🐛 270 | 🌐 Python | 📅 2026-11-13 - Self-hosted email alias solution.
+* [SimpleLogin](https://github.com/simple-login/app) ⭐ 7,145 | 🐛 270 | 🌐 Python | 📅 2026-11-13 - Self-hosted email alias solution.
 * [Cloud Seeder](https://ipv6.rs/cloudseeder) - 1-click Install and Upgrade a Postfix+Dovecot or Stalwart mail server instance, hands free.
 * [iRedMail](https://iredmail.org/) - Easy to install open source mail server solution.
 * [Mail-in-a-box](https://mailinabox.email/) - Lets you become your own mail service provider in a few easy steps.
@@ -192,7 +192,7 @@ AWESOME EMAILS ✉ ✨
 
 ## Testing
 
-* [MailHog](https://github.com/mailhog/MailHog) ⭐ 16,207 | 🐛 255 | 🌐 Go | 📅 2024-02-13 A local fake SMTP server (based on Go).
+* [MailHog](https://github.com/mailhog/MailHog) ⭐ 16,208 | 🐛 255 | 🌐 Go | 📅 2024-02-13 A local fake SMTP server (based on Go).
 * [PutsMail](https://putsmail.com/) - Free tool to test your HTML emails before sending them!
 * [Litmus](https://litmus.com/) - Test and track your emails with Litmus.
 * [Campaign Monitor](https://www.campaignmonitor.com/testing/) - Test your design in all the different email client with Campaign Monitor.
@@ -232,4 +232,4 @@ If you want to contribute, please read the [contribution guidelines](https://git
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
