@@ -19,7 +19,7 @@
             "open_issues": 36,
             "owner": "mailchimp",
             "repo": "email-blueprints",
-            "stars": 7024,
+            "stars": 7023,
             "topics": []
           },
           "first_seen": "2026-08-28T19:31:17.232Z"
@@ -258,7 +258,7 @@
             "open_issues": 29,
             "owner": "AfterShip",
             "repo": "email-verifier",
-            "stars": 1662,
+            "stars": 1663,
             "topics": [
               "disposable",
               "email",
@@ -290,10 +290,10 @@
             "language": "Ruby",
             "license": "MIT",
             "last_commit": "2026-11-20T14:57:27Z",
-            "open_issues": 93,
+            "open_issues": 95,
             "owner": "postalserver",
             "repo": "postal",
-            "stars": 16968,
+            "stars": 16970,
             "topics": [
               "mail",
               "mail-server",
@@ -322,8 +322,8 @@
             "id": 228877522,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-20T15:06:26Z",
-            "open_issues": 271,
+            "last_commit": "2026-11-20T16:55:08Z",
+            "open_issues": 272,
             "owner": "simple-login",
             "repo": "app",
             "stars": 7152,
@@ -514,7 +514,7 @@
                 "id": 607325717,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-20T04:30:52Z",
+                "last_commit": "2026-11-20T23:16:38Z",
                 "open_issues": 16,
                 "owner": "jonathandion",
                 "repo": "mono",
@@ -539,7 +539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T16:17:38.251Z",
+    "last_updated": "2026-11-21T15:29:57.208Z",
     "original_repository_info": {
       "archived": false,
       "description": "✉️ An awesome list of resources to build better emails.",
@@ -551,7 +551,7 @@
       "open_issues": 61,
       "owner": "jonathandion",
       "repo": "awesome-emails",
-      "stars": 2776,
+      "stars": 2777,
       "topics": [
         "awesome",
         "email",
