@@ -19,7 +19,7 @@
             "open_issues": 36,
             "owner": "mailchimp",
             "repo": "email-blueprints",
-            "stars": 7025,
+            "stars": 7024,
             "topics": []
           },
           "first_seen": "2026-08-28T19:31:17.232Z"
@@ -40,7 +40,7 @@
             "open_issues": 12,
             "owner": "mailgun",
             "repo": "transactional-email-templates",
-            "stars": 6917,
+            "stars": 6916,
             "topics": []
           },
           "first_seen": "2026-08-28T19:31:17.232Z"
@@ -61,7 +61,7 @@
             "open_issues": 13,
             "owner": "emailmonday",
             "repo": "Cerberus",
-            "stars": 5146,
+            "stars": 5145,
             "topics": [
               "cerberus",
               "email",
@@ -91,7 +91,7 @@
             "open_issues": 22,
             "owner": "seanpowell",
             "repo": "Email-Boilerplate",
-            "stars": 3782,
+            "stars": 3781,
             "topics": []
           },
           "first_seen": "2026-08-28T19:31:17.232Z"
@@ -112,7 +112,7 @@
             "open_issues": 3,
             "owner": "InterNations",
             "repo": "antwort",
-            "stars": 3556,
+            "stars": 3555,
             "topics": []
           },
           "first_seen": "2026-08-28T19:31:17.232Z"
@@ -255,7 +255,7 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-11-23T10:00:14Z",
-            "open_issues": 29,
+            "open_issues": 24,
             "owner": "AfterShip",
             "repo": "email-verifier",
             "stars": 1666,
@@ -293,7 +293,7 @@
             "open_issues": 95,
             "owner": "postalserver",
             "repo": "postal",
-            "stars": 16972,
+            "stars": 16975,
             "topics": [
               "mail",
               "mail-server",
@@ -322,11 +322,11 @@
             "id": 228877522,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-23T16:36:52Z",
+            "last_commit": "2026-11-24T16:14:49Z",
             "open_issues": 273,
             "owner": "simple-login",
             "repo": "app",
-            "stars": 7156,
+            "stars": 7159,
             "topics": [
               "aliases",
               "email",
@@ -386,7 +386,7 @@
             "open_issues": 0,
             "owner": "threeheartsdigital",
             "repo": "email-marketing-regulations",
-            "stars": 473,
+            "stars": 474,
             "topics": [
               "business",
               "can-spam",
@@ -428,7 +428,7 @@
             "open_issues": 255,
             "owner": "mailhog",
             "repo": "MailHog",
-            "stars": 16209,
+            "stars": 16208,
             "topics": []
           },
           "first_seen": "2026-08-28T19:31:17.232Z"
@@ -514,7 +514,7 @@
                 "id": 607325717,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-20T23:16:38Z",
+                "last_commit": "2026-11-23T22:38:58Z",
                 "open_issues": 16,
                 "owner": "jonathandion",
                 "repo": "mono",
@@ -539,7 +539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T19:24:03.358Z",
+    "last_updated": "2026-11-24T19:00:01.646Z",
     "original_repository_info": {
       "archived": false,
       "description": "✉️ An awesome list of resources to build better emails.",
